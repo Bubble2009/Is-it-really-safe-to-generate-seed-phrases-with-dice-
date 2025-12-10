@@ -51,4 +51,4 @@ Vi sono in tutto cinque tipologie di solidi con queste caratteristiche:
 | Tetraedro | Esaedro | Ottaedro | Dodecaedro | Icosaedro |
 | ----------- | --------- | ---------- | ------------ | ----------- |
 |  ![Tetraedro](assets/Tetrahedron.gif)  |  ![Esaedro](assets/Hexahedron.gif)  | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) |  ![Icosaedro](assets/Icosahedron.gif)   |
-| D4                                                 | D6      | D8       | D10        | D12       |
+| D4                                                 | D6      | D8       | D12        | D20       |
