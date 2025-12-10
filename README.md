@@ -39,7 +39,7 @@ I ricordi delle lezioni di Gemetria, sono oramai del tutto sbiaditi, pertanto ho
 **Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.
 La rilevanza tra un filosofo e la gemetria, a noi non interessa, ma quello che è fondamentale capire è la definizione di **Solido Platonico**.
 
-Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso con le seguenti caratteristiche:
+Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
 * le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè sovrapponibili esattamente);
 * i suoi [spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
