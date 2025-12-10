@@ -1,4 +1,4 @@
-# SeedPhrase Dadi e Security Tradeoff
+# SeedPhrase, Dadi e Security Tradeoff
 
 ### Chiunque si sia dimostrato interessato a Bitcoin, prima o poi ha dovuto affrontare la generazione di una seedphrase.
 
@@ -34,4 +34,21 @@ Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella speriment
 
 I ricordi delle lezioni di Gemetria, sono oramai del tutto sbiaditi, pertanto ho dovuto dare affidamento alla rete per tornare a riscoprire **I Solidi Platonici**.
 
-### I Solidi Platonici
+## I Solidi Platonici
+
+**Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.
+La rilevanza tra un filosofo e la gemetria, a noi non interessa, ma quello che è fondamentale capire è la definizione di **Solido Platonico**.
+
+Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso con le seguenti caratteristiche:
+
+* le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè sovrapponibili esattamente);
+* i suoi [spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
+* i suoi [vertici](https://it.wikipedia.org/wiki/Vertice_(geometria)) sono tutti equivalenti, sicché i suoi [angoloidi](https://it.wikipedia.org/wiki/Angoloide) (angoli interni tridimensionali) hanno tutti la stessa ampiezza.
+
+Vi sono in tutto cinque tipologie di solidi con queste caratteristiche:
+
+
+| Tetraedro | Esaedro | Ottaedro | Dodecaedro | Icosaedro |
+| ----------- | --------- | ---------- | ------------ | ----------- |
+|  ![Tetraedro](assets/Tetrahedron.gif)  |  ![Esaedro](assets/Hexahedron.gif)  | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) |  ![Icosaedro](assets/Icosahedron.gif)   |
+| D4                                                 | D6      | D8       | D10        | D12       |
