@@ -1,12 +1,12 @@
 # SeedPhrase, Dadi e Security Tradeoff
 
-### Chiunque si sia dimostrato interessato a Bitcoin, prima o poi ha dovuto affrontare la generazione di una seedphrase.
+### Chiunque si sia dimostrato interessato a Bitcoin, prima o poi ha dovuto affrontare la generazione di una SeedPhrase.
 
 Ci sono svariati metodi per generare questa serie di 12 o 24 parole, ma ognuno ha differenti livelli di entropia e, di conseguenza, differenti livelli di sicurezza.
 
 Una volta generata la SeedPhrase, sarà poi necessario conservarla in maniera sicura, ma questo è un discorso che magari affronteremo in un altro momento.
 
-# Generazione Seedphrase con i dadi
+# Generazione SeedPhrase con i dadi
 
 Non è mia intenzione dare l'ennesima guida di come generare la SeedPhrase, ma voglio solo mettervi a conoscenza di considerazioni che ho fatto nel tempo.
 
@@ -42,7 +42,7 @@ I ricordi delle lezioni di Geometria, sono oramai del tutto sbiaditi, pertanto h
 
 **Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.
 
-La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perchè la sua regolarità è molto importante.
+La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perché la sua regolarità è molto importante.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
@@ -56,7 +56,7 @@ Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 | -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
 | ![Tetraedro](assets/Tetrahedron.gif) | ![Esaedro](assets/Hexahedron.gif) | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) | ![Icosaedro](assets/Icosahedron.gif) |
 
-Le caratteristiche di un Solido Pltonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabiltà *fisica* si avere un vantaggio/svantagglio rispetto alle altre in caso di rotolamento.
+Le caratteristiche di un Solido Platonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabilità *fisica* si avere un vantaggio/svantaggio rispetto alle altre in caso di rotolamento.
 
 Per questo motivo, da questi solidi, derivano i dadi che utilizziamo comunemente.
 Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono mno diffusi, ma molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
@@ -67,13 +67,9 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 | Dado 10 facce | D10                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | 
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicchè i giocatori di ruolo, possono stare tranquilli.| ![D10](assets/Dice_D10.jpg) | 
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli.| ![D10](assets/Dice_D10.jpg) | 
 
 ## il Dado a 16 facce
-Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 **non è un solido platonico**, ma non come il D10, il D16 non rispecchia **NESSUNA** delle caratterisiche che itentificano un Solido Platonico.
-
-Quanto descritto fino ad ora, si rispecchia perffettamente nei test che ho effettuato.
-Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si vedono le prime devianze nei risultati.
-
-
+Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è un solido platonico, ma non come il D10, il D16 non rispecchia NESSUNA delle caratteristiche che identificano un Solido Platonico.
+Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato. Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si vedono le prime devianze nei risultati.
 
