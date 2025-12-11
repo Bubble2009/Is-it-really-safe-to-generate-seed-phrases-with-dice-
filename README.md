@@ -26,7 +26,13 @@ A questo proposito, però, vi segnalo una procedura che ha studiato un amico, ch
 Molto spesso mi sono imbattuto in guide che esortano gli utenti ad utilizare altri tipi di dadi.
 La maggiorparte di queste guide alternative, però, spingono gli utenti ad utilizzare i ***dadi da 16 facce***.
 
-Da giocatore di D&D, quasi cascai dalla sedia quando sentii nominare questi dadi. Mai sentiti, mai utilizati, mai visti in nessun negiozo e nessuna fiera.
+Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)), quasi cascai dalla sedia quando sentii nominare questi dadi.
+
+Mai sentiti.
+
+Mai utilizati.
+
+Mai visti in nessun negiozo e nessuna fiera.
 
 Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon. All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltreutto erano **forme gemetriche IRREGOLARI**.
 
@@ -49,13 +55,19 @@ Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convess
 Vi sono in tutto cinque tipologie di solidi con queste caratteristiche:
 
 
-|  Tetraedro   |   Esaedro    |   Ottaedro   |  Dodecaedro  |  Icosaedro   |
-| -------------- | -------------- | -------------- | -------------- | -------------- |
-|  ![Tetraedro](assets/Tetrahedron.gif)  |  ![Esaedro](assets/Hexahedron.gif)  | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) |  ![Icosaedro](assets/Icosahedron.gif)   |
-|  Tetraedro   |   Esaedro    |   Ottaedro   |  Dodecaedro  |  Icosaedro   |
+| Tetraedro                            | Esaedro                           | Ottaedro                           | Dodecaedro                             | Icosaedro                            |
+| -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
+| ![Tetraedro](assets/Tetrahedron.gif) | ![Esaedro](assets/Hexahedron.gif) | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) | ![Icosaedro](assets/Icosahedron.gif) |
 
-|  D4   |   D6    |   D8   |  D12  |  D20   |
-| -------------- | -------------- | -------------- | -------------- | -------------- |
-| ![D4](assets/Dice_D4.jpg)| ![D6](assets/Dice_D6.jpg)| ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
+Da questi solidi, derivano i dadi standard, quello a 6 facce è universalmente conosciuto, gli altri, invece, sono molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
 
-Da notare che nei GRD (giochi di ruolo) si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spicoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalneti.
+
+| D4                        | D6                        | D8                        | D12                         | D20                         |
+| --------------------------- | --------------------------- | --------------------------- | ----------------------------- | ----------------------------- |
+| ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
+
+
+| Dado 10 facce | D10                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | 
+| col1Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue[facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spicoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalneti. | ![D10](assets/Dice_D10.jpg) | 
+
