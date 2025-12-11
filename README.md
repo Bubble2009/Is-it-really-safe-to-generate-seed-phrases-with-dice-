@@ -52,24 +52,55 @@ Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convess
 
 Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 
+
 | Tetraedro                            | Esaedro                           | Ottaedro                           | Dodecaedro                             | Icosaedro                            |
 | -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
 | ![Tetraedro](assets/Tetrahedron.gif) | ![Esaedro](assets/Hexahedron.gif) | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) | ![Icosaedro](assets/Icosahedron.gif) |
+| ![Tetraedro](assets/tetraedro.png)   | ![Esaedro](assets/cubo.png)       | ![Ottaedro](assets/ottaedro.png)   | ![Dodecaerdo](assets/dodecaedro.png)   | ![Icosaedro](assets/icosaedro.png)   |
 
 Le caratteristiche di un Solido Platonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabilità *fisica* si avere un vantaggio/svantaggio rispetto alle altre in caso di rotolamento.
 
 Per questo motivo, da questi solidi, derivano i dadi che utilizziamo comunemente.
 Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono mno diffusi, ma molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
 
+
 | D4                        | D6                        | D8                        | D12                         | D20                         |
 | --------------------------- | --------------------------- | --------------------------- | ----------------------------- | ----------------------------- |
 | ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
 
-| Dado 10 facce | D10                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | 
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli.| ![D10](assets/Dice_D10.jpg) | 
+
+| Dado 10 facce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D10                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue[facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli. | ![D10](assets/Dice_D10.jpg) |
 
 ## il Dado a 16 facce
+
 Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è un solido platonico, ma non come il D10, il D16 non rispecchia NESSUNA delle caratteristiche che identificano un Solido Platonico.
 Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato. Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si vedono le prime devianze nei risultati.
 
+## Dadi Bilanciati
+
+Di seguito alcuni suggerimenti per capire se un dado è, quantomeno in apparenza bilanciato:
+
+1. Forma:
+   * La forma del dado è simmetrica?
+   * Ci sono difformità o imperfezioni evidenti?
+2. Distribuzione del peso:
+   * Tenendo il dado in mano, sembrano esserci lati più pesanti?
+   * Facendo rotolare in mano il dado, si sentono differenze di peso?
+3. Qualità della superficie:
+   * Ad una ispezione visiva, risultano irregolarità?
+   * Ci sono eventuali ammaccature ad angoli o bordi?
+
+Queste sono semplici linee guida per verificare il bilanciamento di un dado.
+Il **dado da 16 facce**, *non può superare il primo punto* visto che, avendo facce differenti tra di loro, non può risultare simmetrico.
+
+Ci sono dei test pratici per verificare se un dado è bilanciato, ma vengono descritti in un [altro documento](test_bilanciamento.md).
+
+## Che dadi usare per generare una SeedPhrase?
+
+Arriviamo ora ad affrontare quello che veramente ci interessa! Che dadi utilizzare per generare un SeedPhrase?
+
+Rimane sempre possibile utilizzare delle monete, ma volendo utilizzare dei dadi, allora, è indispensabile utilizzare un **Solido Platonico** per sperare di avere una adeguata entropia.
+
+Proprio per questo motivo, **BISOGNA RIGOROSAMENTE ESCLUDERE IL DADO DA 16 FACCE!!**. Non mi importa assolutamente che alcune guide li raccomandino, vi ho fornito molte informazioni su cui ragionare. Spero che possiate facilmente giungere alla mia stessa conclusione ed **evitare di seguire le guide che invitano a utilizzare questi dadi**.
