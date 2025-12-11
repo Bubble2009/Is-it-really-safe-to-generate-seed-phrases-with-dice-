@@ -52,6 +52,10 @@ Vi sono in tutto cinque tipologie di solidi con queste caratteristiche:
 |  Tetraedro   |   Esaedro    |   Ottaedro   |  Dodecaedro  |  Icosaedro   |
 | -------------- | -------------- | -------------- | -------------- | -------------- |
 |  ![Tetraedro](assets/Tetrahedron.gif)  |  ![Esaedro](assets/Hexahedron.gif)  | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) |  ![Icosaedro](assets/Icosahedron.gif)   |
+|  Tetraedro   |   Esaedro    |   Ottaedro   |  Dodecaedro  |  Icosaedro   |
+
+|  D4   |   D6    |   D8   |  D12  |  D20   |
+| -------------- | -------------- | -------------- | -------------- | -------------- |
 | ![D4](assets/Dice_D4.jpg)| ![D6](assets/Dice_D6.jpg)| ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
 
 Da notare che nei GRD (giochi di ruolo) si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spicoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalneti.
