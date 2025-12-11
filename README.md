@@ -28,11 +28,9 @@ La maggior parte di queste guide alternative, però, spingono gli utenti ad util
 
 Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)), quasi cascai dalla sedia quando sentii nominare questi dadi.
 
-Mai sentiti.
-
-Mai utilizzati.
-
-Mai visti in nessun negozio e nessuna fiera.
+* Mai sentiti;
+* Mai utilizzati;
+* Mai visti in nessun negozio e nessuna fiera.
 
 Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon. All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.
 
@@ -44,7 +42,7 @@ I ricordi delle lezioni di Geometria, sono oramai del tutto sbiaditi, pertanto h
 
 **Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.
 
-La rilevanza tra un filosofo e la geometria, a noi non interessa, ma quello che è fondamentale capire è la definizione di **Solido Platonico**.
+La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perchè la sua regolarità è molto importante.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
@@ -52,24 +50,30 @@ Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convess
 * i suoi [spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
 * i suoi [vertici](https://it.wikipedia.org/wiki/Vertice_(geometria)) sono tutti equivalenti, sicché i suoi [angoloidi](https://it.wikipedia.org/wiki/Angoloide) (angoli interni tridimensionali) hanno tutti la stessa ampiezza.
 
-Vi sono in tutto cinque tipologie di solidi con queste caratteristiche:
-
+Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 
 | Tetraedro                            | Esaedro                           | Ottaedro                           | Dodecaedro                             | Icosaedro                            |
 | -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
 | ![Tetraedro](assets/Tetrahedron.gif) | ![Esaedro](assets/Hexahedron.gif) | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) | ![Icosaedro](assets/Icosahedron.gif) |
 
-Da questi solidi, derivano i dadi standard, quello a 6 facce è universalmente conosciuto, gli altri, invece, sono molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
+Le caratteristiche di un Solido Pltonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabiltà *fisica* si avere un vantaggio/svantagglio rispetto alle altre in caso di rotolamento.
 
+Per questo motivo, da questi solidi, derivano i dadi che utilizziamo comunemente.
+Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono mno diffusi, ma molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
 
 | D4                        | D6                        | D8                        | D12                         | D20                         |
 | --------------------------- | --------------------------- | --------------------------- | ----------------------------- | ----------------------------- |
 | ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
 
-
-
 | Dado 10 facce | D10                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | 
 | Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicchè i giocatori di ruolo, possono stare tranquilli.| ![D10](assets/Dice_D10.jpg) | 
+
+## il Dado a 16 facce
+Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 **non è un solido platonico**, ma non come il D10, il D16 non rispecchia **NESSUNA** delle caratterisiche che itentificano un Solido Platonico.
+
+Quanto descritto fino ad ora, si rispecchia perffettamente nei test che ho effettuato.
+Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si vedono le prime devianze nei risultati.
+
 
 
