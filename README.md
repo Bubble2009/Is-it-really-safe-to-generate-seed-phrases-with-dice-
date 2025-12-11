@@ -2,49 +2,49 @@
 
 ### Chiunque si sia dimostrato interessato a Bitcoin, prima o poi ha dovuto affrontare la generazione di una seedphrase.
 
-Ci sono svariati metodi per generare questa serie di 12 o 24 parole, ma ognuno ha divverenti livelli di entropia e, di conseguenza, differenti livelli di sicurezza.
+Ci sono svariati metodi per generare questa serie di 12 o 24 parole, ma ognuno ha differenti livelli di entropia e, di conseguenza, differenti livelli di sicurezza.
 
-Una volta generata la SeedPhrase, sarà poi necessaio conservalra in maniera sicura, ma questo è un disxorso che magari affronteremo in un altro momento.
+Una volta generata la SeedPhrase, sarà poi necessario conservarla in maniera sicura, ma questo è un discorso che magari affronteremo in un altro momento.
 
 # Generazione Seedphrase con i dadi
 
-Non è mia intenzione dare l'ennesima guida du come generare la SeedPhrase, ma volgio solo mettervi a conoscenza di considerazioni che ho fatto nel tempo.
+Non è mia intenzione dare l'ennesima guida di come generare la SeedPhrase, ma voglio solo mettervi a conoscenza di considerazioni che ho fatto nel tempo.
 
 ### Monete o Dadi 6 facce
 
-Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole intodotte con il [BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzate 11 monete oppure 11 dadi da 6 facce.
+Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole introdotte con il [BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzate 11 monete oppure 11 dadi da 6 facce.
 
-Se non conoscete questa pratica, vi consigio di leggere la guida redatta da [Turtlecute](https://github.com/Turtlecute33) e pubblicata su suo sito: [turtlecute.org/seed](https://turtlecute.org/seed/). La stessa procedura può essere utilizzata utilizzando 11 monete.
+Se non conoscete questa pratica, vi consiglio di leggere la guida redatta da [Turtlecute](https://github.com/Turtlecute33) e pubblicata su suo sito: [turtlecute.org/seed](https://turtlecute.org/seed/). La stessa procedura può essere utilizzata utilizzando 11 monete.
 
-Ho appositamente menzinato le monete, perchè ritengo che possa essere più semplice recuperare 11 monete identiche piuttosto che 11 dadi.
-E' anche vero che si puà utilizzare un solo dato e lanciarlo 11 volte per parola da generare, ma tutta la trafila risulterà più lunga.
+Ho appositamente menzionato le monete, perché ritengo che possa essere più semplice recuperare 11 monete identiche piuttosto che 11 dadi.
+E' anche vero che si può utilizzare un solo dato e lanciarlo 11 volte per parola da generare, ma tutta la trafila risulterà più lunga.
 
 A questo proposito, però, vi segnalo una procedura che ha studiato un amico, che vi permette di generare la SeedPhrase lanciando un dado da 6, un numero limitato di volte. Per il momento potete trovare la guida di **Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0).
 
 ### Altri tipi di Dadi
 
-Molto spesso mi sono imbattuto in guide che esortano gli utenti ad utilizare altri tipi di dadi.
-La maggiorparte di queste guide alternative, però, spingono gli utenti ad utilizzare i ***dadi da 16 facce***.
+Molto spesso mi sono imbattuto in guide che esortano gli utenti ad utilizzare altri tipi di dadi.
+La maggior parte di queste guide alternative, però, spingono gli utenti ad utilizzare i ***dadi da 16 facce***.
 
 Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)), quasi cascai dalla sedia quando sentii nominare questi dadi.
 
 Mai sentiti.
 
-Mai utilizati.
+Mai utilizzati.
 
-Mai visti in nessun negiozo e nessuna fiera.
+Mai visti in nessun negozio e nessuna fiera.
 
-Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon. All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltreutto erano **forme gemetriche IRREGOLARI**.
+Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon. All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.
 
 Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione e nella ricerca.
 
-I ricordi delle lezioni di Gemetria, sono oramai del tutto sbiaditi, pertanto ho dovuto dare affidamento alla rete per tornare a riscoprire **I Solidi Platonici**.
+I ricordi delle lezioni di Geometria, sono oramai del tutto sbiaditi, pertanto ho dovuto dare affidamento alla rete per tornare a riscoprire **I Solidi Platonici**.
 
 ## I Solidi Platonici
 
 **Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.
 
-La rilevanza tra un filosofo e la gemetria, a noi non interessa, ma quello che è fondamentale capire è la definizione di **Solido Platonico**.
+La rilevanza tra un filosofo e la geometria, a noi non interessa, ma quello che è fondamentale capire è la definizione di **Solido Platonico**.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
@@ -67,8 +67,9 @@ Da questi solidi, derivano i dadi standard, quello a 6 facce è universalmente c
 | ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
 
 
+
 | Dado 10 facce | D10                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | 
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalneti. | ![D10](assets/Dice_D10.jpg) | 
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicchè i giocatori di ruolo, possono stare tranquilli.| ![D10](assets/Dice_D10.jpg) | 
 
-Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica.
+
