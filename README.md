@@ -19,7 +19,7 @@ Ho appositamente menzionato le monete, perché ritengo che possa essere più sem
 E' anche vero che si può utilizzare un solo dato e lanciarlo 11 volte per parola da generare, ma tutta la trafila risulterà più lunga.
 
 A questo proposito, però, vi segnalo una procedura che ha studiato un amico, che vi permette di generare la SeedPhrase lanciando un dado da 6, un numero limitato di volte.<br>
-Per il momento potete trovare la guida di **Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0).
+Per il momento potete trovare la guida pubblicata da **Il Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0) e presenta allo Spazio21 di Lugano nel 2025.
 
 ### Altri tipi di Dadi
 
@@ -100,3 +100,34 @@ Arriviamo ora ad affrontare quello che veramente ci interessa! Che dadi utilizza
 Rimane sempre possibile utilizzare delle monete, ma volendo utilizzare dei dadi, allora, è indispensabile utilizzare un **Solido Platonico** per sperare di avere una adeguata entropia.
 
 Proprio per questo motivo, **BISOGNA RIGOROSAMENTE ESCLUDERE IL DADO DA 16 FACCE!!**. Non mi importa assolutamente che alcune guide li raccomandino, vi ho fornito molte informazioni su cui ragionare. Spero che possiate facilmente giungere alla mia stessa conclusione ed **evitare di seguire le guide che invitano a utilizzare questi dadi**.
+
+A questo punto, che dadi possiamo usare?<cr>
+la risposta potrebbe essere decisamente articolata, ma cercherò di semplificarla.
+* Un solo dado da 6 usando la guirda redatta da *Il Leo*;
+* Un qualsiasi dado basato su un Solido Platonico, usandolo per generare un numero bianrio. Decidendo a priori quali facce assegnare al valore zero e quali al valore uno e seguendo una delle numerose guide (come quella di Turtlecute);
+* Un set composto da 4 dadi: un dado da 4 e tre dadi da 8.
+
+Ora vi spiego perché questo set di 4 dadi va bene, mentre il set che prevede l'uso dei d16 no.<cr>
+Solamente per un morivo Geometrico, il d4 ed il d8 sono **Solidi Platonici**, mentre il d16, no!!
+
+Se il d16 fosse un Solido Platonico, sarebbe il sistema più pratico, ma purtroppo non è così.
+Vediamo quindi come poter generare la nostra maledetta **SeedPhrase**.<cr>
+Escludendo il metodo inventato da *Il Leo*, noi dobbiamo generare 12 o 24 numeri compresi tra 0 e 2047. A questi numeri poi, corrisponderà una parola del BIP39.
+
+Vediamo ora come possiamo scrivere il numero 2047:
+* 11111111111 in binario
+   * possiamo ottenere questo valore con 11 monete o con 11 dadi
+* 3777 in ottale
+   * possiamo ottenere questo valore con un d4 e tre d8
+* 7FF in esadecimale
+   * potremmo onnenere questo valore con un d8 e due d16, ma, come abbiamo visto, non essendo un Solido Platonico il d16 è meglio evitare come la peste.
+
+Analizzando la reperibilità dei materiali necessari per generare la SeedPhrase, le 11 monete (almeno fino a che non vieteranno il contante) è l'equipaggiamento più comune. A bravissima distanza, troviamo il d6 essendo quello più reperibile in quasi ogni casa; magari non è tutti e 11, ma almeno uno sí.<cr>
+Procedendo poi con ordine, troviamo il set composto da un d4 e da tre d8. Questi dadi sono sì particolari, ma reperibili in tutte le case di un giocatore di GdR ed anche in un qualsivoglia negozio di giochi.<cr>
+Come ultimi ruota del carro, invece, troviamo i d16. Vi riporto la descrizione che fece il mio fidato negoziante su questi dadi: "*una cinesata inventata da Temu o piattaforme simili*".<cr>
+Sicché, visto che anche la sola reperibilità di un d16 è complesaa, *evitate di farvi irretire dai fuffa-guru* ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
+
+
+
+
+
