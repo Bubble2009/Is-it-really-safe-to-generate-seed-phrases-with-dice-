@@ -122,8 +122,9 @@ Vediamo ora come possiamo scrivere il numero 2047:
 * 7FF in esadecimale
    * potremmo onnenere questo valore con un d8 e due d16, ma, come abbiamo visto, non essendo un Solido Platonico il d16 è meglio evitare come la peste.
 
-Analizzando la reperibilità dei materiali necessari per generare la SeedPhrase, le 11 monete (almeno fino a che non vieteranno il contante) è l'equipaggiamento più facile da reperire.<cr> A bravissima distanza, troviamo il d6 essendo quello più reperibile in quasi ogni casa; magari non è tutti e 11, ma almeno uno sí.<cr>
-Procedendo poi con ordine, troviamo il set composto da un d4 e da tre d8. Questi dadi sono sì particolari, ma reperibili in tutte le case di un giocatore di GdR ed anche in un qualsivoglia negozio di giochi.<cr>
+Analizzando la reperibilità dei materiali necessari per generare la SeedPhrase, le 11 monete (almeno fino a che non vieteranno il contante) è l'equipaggiamento più facile da reperire.<cr>
+A bravissima distanza troviamo il d6 visto che lo possiamo reperire in quasi ogni casa; magari non è tutti e 11, ma almeno uno sí.<cr>
+Procedendo poi con ordine, troviamo il set composto da un d4 e da tre d8. Questi dadi sono sì particolari, ma reperibili in tutte le case di un giocatore di GdR o in un qualsivoglia negozio di giochi.<cr>
 Come ultimi ruota del carro, invece, troviamo i d16. Vi riporto la descrizione che fece il mio fidato negoziante su questi dadi: "*una cinesata inventata da Temu o piattaforme simili*".<cr>
 Sicché, visto che anche la sola reperibilità di un d16 è complesaa, *evitate di farvi irretire dai fuffa-guru* ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
 
