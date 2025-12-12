@@ -2,8 +2,7 @@
 
 ### Chiunque si sia dimostrato interessato a Bitcoin, prima o poi ha dovuto affrontare la generazione di una SeedPhrase.
 
-Ci sono svariati metodi per generare questa serie di 12 o 24 parole, ma ognuno ha differenti livelli di entropia e, di conseguenza, differenti livelli di sicurezza.
-
+Ci sono svariati metodi per generare questa serie di 12 o 24 parole, ma ognuno ha differenti livelli di entropia e, di conseguenza, differenti livelli di sicurezza.<br>
 Una volta generata la SeedPhrase, sarà poi necessario conservarla in maniera sicura, ma questo è un discorso che magari affronteremo in un altro momento.
 
 # Generazione SeedPhrase con i dadi
@@ -16,10 +15,11 @@ Come sapete, per descrivere in maniera binaria il numero corrispondente alle 204
 
 Se non conoscete questa pratica, vi consiglio di leggere la guida redatta da [Turtlecute](https://github.com/Turtlecute33) e pubblicata su suo sito: [turtlecute.org/seed](https://turtlecute.org/seed/). La stessa procedura può essere utilizzata utilizzando 11 monete.
 
-Ho appositamente menzionato le monete, perché ritengo che possa essere più semplice recuperare 11 monete identiche piuttosto che 11 dadi.
+Ho appositamente menzionato le monete, perché ritengo che possa essere più semplice recuperare 11 monete identiche piuttosto che 11 dadi.<br>
 E' anche vero che si può utilizzare un solo dato e lanciarlo 11 volte per parola da generare, ma tutta la trafila risulterà più lunga.
 
-A questo proposito, però, vi segnalo una procedura che ha studiato un amico, che vi permette di generare la SeedPhrase lanciando un dado da 6, un numero limitato di volte. Per il momento potete trovare la guida di **Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0).
+A questo proposito, però, vi segnalo una procedura che ha studiato un amico, che vi permette di generare la SeedPhrase lanciando un dado da 6, un numero limitato di volte.<br>
+Per il momento potete trovare la guida di **Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0).
 
 ### Altri tipi di Dadi
 
@@ -32,16 +32,15 @@ Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioc
 * Mai utilizzati;
 * Mai visti in nessun negozio e nessuna fiera.
 
-Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon. All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.
-
+Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon.<br>
+ All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
 Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione e nella ricerca.
 
-I ricordi delle lezioni di Geometria, sono oramai del tutto sbiaditi, pertanto ho dovuto dare affidamento alla rete per tornare a riscoprire **I Solidi Platonici**.
+I ricordi delle lezioni di Geometria, sono oramai del tutto sbiaditi, pertanto ho dovuto fare affidamento alla rete per tornare a riscoprire **I Solidi Platonici**.
 
 ## I Solidi Platonici
 
-**Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.
-
+**Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.<br>
 La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perché la sua regolarità è molto importante.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
@@ -52,17 +51,14 @@ Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convess
 
 Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 
-
 | Tetraedro                            | Esaedro                           | Ottaedro                           | Dodecaedro                             | Icosaedro                            |
 | -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
 | ![Tetraedro](assets/Tetrahedron.gif) | ![Esaedro](assets/Hexahedron.gif) | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) | ![Icosaedro](assets/Icosahedron.gif) |
 | ![Tetraedro](assets/tetraedro.png)   | ![Esaedro](assets/cubo.png)       | ![Ottaedro](assets/ottaedro.png)   | ![Dodecaerdo](assets/dodecaedro.png)   | ![Icosaedro](assets/icosaedro.png)   |
 
-Le caratteristiche di un Solido Platonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabilità *fisica* si avere un vantaggio/svantaggio rispetto alle altre in caso di rotolamento.
-
+Le caratteristiche di un Solido Platonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabilità *fisica* si avere un vantaggio/svantaggio rispetto alle altre in caso di rotolamento.<br>
 Per questo motivo, da questi solidi, derivano i dadi che utilizziamo comunemente.
 Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono mno diffusi, ma molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
-
 
 | D4                        | D6                        | D8                        | D12                         | D20                         |
 | --------------------------- | --------------------------- | --------------------------- | ----------------------------- | ----------------------------- |
@@ -75,7 +71,7 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 ## il Dado a 16 facce
 
-Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è un solido platonico, ma non come il D10, il D16 non rispecchia NESSUNA delle caratteristiche che identificano un Solido Platonico.
+Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è un solido platonico, ma non come il D10, il D16 non rispecchia NESSUNA delle caratteristiche che identificano un Solido Platonico.<br>
 Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato. Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si vedono le prime devianze nei risultati.
 
 ## Dadi Bilanciati
