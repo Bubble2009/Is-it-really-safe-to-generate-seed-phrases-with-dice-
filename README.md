@@ -33,7 +33,7 @@ Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioc
 * Mai visti in nessun negozio e nessuna fiera.
 
 Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon.<br>
- All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
+All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
 Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione e nella ricerca.
 
 I ricordi delle lezioni di Geometria, sono oramai del tutto sbiaditi, pertanto ho dovuto fare affidamento alla rete per tornare a riscoprire **I Solidi Platonici**.
@@ -51,6 +51,7 @@ Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convess
 
 Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 
+
 | Tetraedro                            | Esaedro                           | Ottaedro                           | Dodecaedro                             | Icosaedro                            |
 | -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
 | ![Tetraedro](assets/Tetrahedron.gif) | ![Esaedro](assets/Hexahedron.gif) | ![Ottaedro](assets/Octahedron.gif) | ![Dodecaerdo](assets/Dodecahedron.gif) | ![Icosaedro](assets/Icosahedron.gif) |
@@ -59,6 +60,7 @@ Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 Le caratteristiche di un Solido Platonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabilità *fisica* si avere un vantaggio/svantaggio rispetto alle altre in caso di rotolamento.<br>
 Per questo motivo, da questi solidi, derivano i dadi che utilizziamo comunemente.
 Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono mno diffusi, ma molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
+
 
 | D4                        | D6                        | D8                        | D12                         | D20                         |
 | --------------------------- | --------------------------- | --------------------------- | ----------------------------- | ----------------------------- |
@@ -97,38 +99,54 @@ Ci sono dei test pratici per verificare se un dado è bilanciato, ma vengono des
 
 Arriviamo ora ad affrontare quello che veramente ci interessa! Che dadi utilizzare per generare un SeedPhrase?
 
+![Dice Banner](assets/Dice_banner.jpg)
+
 Rimane sempre possibile utilizzare delle monete, ma volendo utilizzare dei dadi, allora, è indispensabile utilizzare un **Solido Platonico** per sperare di avere una adeguata entropia.
 
 Proprio per questo motivo, **BISOGNA RIGOROSAMENTE ESCLUDERE IL DADO DA 16 FACCE!!**. Non mi importa assolutamente che alcune guide li raccomandino, vi ho fornito molte informazioni su cui ragionare. Spero che possiate facilmente giungere alla mia stessa conclusione ed **evitare di seguire le guide che invitano a utilizzare questi dadi**.
 
 A questo punto, che dadi possiamo usare?<cr>
 la risposta potrebbe essere decisamente articolata, ma cercherò di semplificarla.
-* Un solo dado da 6 usando la guirda redatta da *Il Leo*;
-* Un qualsiasi dado basato su un Solido Platonico, usandolo per generare un numero bianrio. Decidendo a priori quali facce assegnare al valore zero e quali al valore uno e seguendo una delle numerose guide (come quella di Turtlecute);
+
+* Un solo dado da 6 usando la guida redatta da *Il Leo*;
+* Un qualsiasi dado basato su un Solido Platonico, usandolo per generare un numero binario. Decidendo a priori quali facce assegnare al valore zero e quali al valore uno e seguendo una delle numerose guide (come quella di Turtlecute);
 * Un set composto da 4 dadi: un dado da 4 e tre dadi da 8.
 
 Ora vi spiego perché questo set di 4 dadi va bene, mentre il set che prevede l'uso dei d16 no.<cr>
 Solamente per un morivo Geometrico, il d4 ed il d8 sono **Solidi Platonici**, mentre il d16, no!!
 
-Se il d16 fosse un Solido Platonico, sarebbe il sistema più pratico, ma purtroppo non è così.
+*Se il d16 fosse un Solido Platonico*, sarebbe il sistema più pratico, *ma purtroppo non è così*.
 Vediamo quindi come poter generare la nostra maledetta **SeedPhrase**.<cr>
-Escludendo il metodo inventato da *Il Leo*, noi dobbiamo generare 12 o 24 numeri compresi tra 0 e 2047. A questi numeri poi, corrisponderà una parola del BIP39.
+Escludendo il metodo inventato da *Il Leo*, noi dobbiamo generare 12 o 24 numeri compresi tra 0 e 2047.<cr>
+A questi numeri poi, corrisponderà una parola del [BIP39](#monete-o-dadi-6-facce).
 
 Vediamo ora come possiamo scrivere il numero 2047:
-* 11111111111 in binario
-   * possiamo ottenere questo valore con 11 monete o con 11 dadi
-* 3777 in ottale
-   * possiamo ottenere questo valore con un d4 e tre d8
-* 7FF in esadecimale
-   * potremmo onnenere questo valore con un d8 e due d16, ma, come abbiamo visto, non essendo un Solido Platonico il d16 è meglio evitare come la peste.
+
+* **11111111111 in binario**:
+  * possiamo ottenere questo valore con 11 monete o con 11 dadi;
+* **3777 in ottale**:
+  * possiamo ottenere questo valore con un d4 e tre d8;
+* **7FF in esadecimale**:
+  * potremmo ottenere questo valore con un d8 e due d16, ma, come abbiamo visto, *non essendo un Solido Platonico il d16 è da evitare come la peste*.
 
 Analizzando la reperibilità dei materiali necessari per generare la SeedPhrase, le 11 monete (almeno fino a che non vieteranno il contante) è l'equipaggiamento più facile da reperire.<cr>
 A bravissima distanza troviamo il d6 visto che lo possiamo reperire in quasi ogni casa; magari non è tutti e 11, ma almeno uno sí.<cr>
 Procedendo poi con ordine, troviamo il set composto da un d4 e da tre d8. Questi dadi sono sì particolari, ma reperibili in tutte le case di un giocatore di GdR o in un qualsivoglia negozio di giochi.<cr>
-Come ultimi ruota del carro, invece, troviamo i d16. Vi riporto la descrizione che fece il mio fidato negoziante su questi dadi: "*una cinesata inventata da Temu o piattaforme simili*".<cr>
-Sicché, visto che anche la sola reperibilità di un d16 è complesaa, *evitate di farvi irretire dai fuffa-guru* ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
+Come ultimi ruota del carro, invece, troviamo i d16. Vi riporto la descrizione che fece il mio fidato negoziante su questi dadi: "*una cinesata inventata da Temu o piattaforme simili*".
 
+###### Sicché, visto che anche la sola reperibilità di un d16 è complessa, *evitate di farvi irretire dai **fuffa-guru*** ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
 
-
-
+***
+***
+Prossimamente:
+* Seguirà una veloce guida su come generare la SeedPhrase in ottale (con il d4 + 3 d8);<cr>
+Per il momento vi lascio la tabella del BIP39 con i valori decimali, binari ed ottali: 
+* Un amico dovrebbe pubblicare il codice per generare il checksum sia dalle 11 (o 23) parole (dando quindi scelte multiple), ma anche generando con i dadi la prima metà dell'ultima parola;
+* Pubblicherò quì le mi prove fatte con il d16, che per il momento potete leggere in [questo PDF](assets/D16.pdf).<cr> A proposito di questo documento, devo però dirvi:
+  * Non avevo ancora fatto collegamento ai solidi platonici;
+  * Ho effettuato "*solo*" 384 lanci ed il lancio **75** riporta un valore errato;
+  * Non ho ancora redatto le conclusioni matematiche.
+***
+*stay tuned*
+***
 

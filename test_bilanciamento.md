@@ -84,5 +84,6 @@ Tutte le misure rilevate su ogni singola faccia dovrebbero essere coerenti tra d
 Se i dadi sono usati, minime differenze sono da ritenersi normali.<br>
 Anche una scarsa qualità costruttiva potrebbe causare queste differenze.
 ***
+![Dice Banner](assets/Dice_banner.jpg)
 ***
 ## Analisi dei Dati
