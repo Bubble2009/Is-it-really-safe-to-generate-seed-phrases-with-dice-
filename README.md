@@ -134,7 +134,7 @@ A bravissima distanza troviamo il d6 visto che lo possiamo reperire in quasi ogn
 Procedendo poi con ordine, troviamo il set composto da un d4 e da tre d8. Questi dadi sono sì particolari, ma reperibili in tutte le case di un giocatore di GdR o in un qualsivoglia negozio di giochi.<cr>
 Come ultimi ruota del carro, invece, troviamo i d16. Vi riporto la descrizione che fece il mio fidato negoziante su questi dadi: "*una cinesata inventata da Temu o piattaforme simili*".
 
-##### Sicché, visto che anche la sola reperibilità di un d16 è complessa, *evitate di farvi irretire dai **fuffa-guru*** ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
+#### Sicché, visto che anche la sola reperibilità di un d16 è complessa, *evitate di farvi irretire dai **fuffa-guru*** ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
 
 ***
 ***
