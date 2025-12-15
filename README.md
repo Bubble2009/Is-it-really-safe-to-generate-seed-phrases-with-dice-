@@ -69,7 +69,7 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 | Dado 10 facce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D10                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue[facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli. | ![D10](assets/Dice_D10.jpg) |
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli. | ![D10](assets/Dice_D10.jpg) |
 
 ## il Dado a 16 facce
 
@@ -138,7 +138,7 @@ Vediamo ora come possiamo scrivere il numero 2047:
 4. Come ultimi ruota del carro, invece, troviamo i d16.
    Oltre a tutto quello che vi ho detto su questi dadi, vi riporto la descrizione ne che fece il mio fidato negoziante: "*una cinesata inventata da Temu o piattaforme simili*".
 
-###### Sicché, visto che anche la sola reperibilità di un d16 è complessa, *evitate di farvi irretire dai **fuffa-guru*** ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
+#### Sicché, visto che anche la sola reperibilità di un d16 è complessa, *evitate di farvi irretire dai **fuffa-guru*** ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
 
 ---
 
