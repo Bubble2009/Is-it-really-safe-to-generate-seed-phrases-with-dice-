@@ -21,6 +21,8 @@ E' anche vero che si può utilizzare un solo dato e lanciarlo 11 volte per parol
 A questo proposito, però, vi segnalo una procedura che ha studiato un amico, che vi permette di generare la SeedPhrase lanciando un dado da 6, un numero limitato di volte.<br>
 Per il momento potete trovare la guida pubblicata da **Il Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0) e presenta allo Spazio21 di Lugano nel 2025.
 
+![Il Leo - Spazio21 2025](assets/Il_Leo.png)
+
 ### Altri tipi di Dadi
 
 Molto spesso mi sono imbattuto in guide che esortano gli utenti ad utilizzare altri tipi di dadi.
