@@ -117,7 +117,7 @@ la risposta potrebbe essere decisamente articolata, ma cercherò di semplificarl
 Ora vi spiego perché questo set di 4 dadi va bene, mentre il set che prevede l'uso dei d16 no.<br>
 Solamente per un morivo Geometrico, il d4 ed il d8 sono **Solidi Platonici**, mentre il d16, no!!
 
-*Se il d16 fosse un Solido Platonico*, sarebbe il sistema più pratico, *ma purtroppo non è così*.
+*Se il d16 fosse un Solido Platonico*, sarebbe il sistema più pratico, *ma purtroppo non è così*.<br>
 Vediamo quindi come poter generare la nostra maledetta **SeedPhrase**.<br>
 Escludendo il metodo inventato da *Il Leo*, noi dobbiamo generare 12 o 24 numeri compresi tra 0 e 2047.<br>
 A questi numeri poi, corrisponderà una parola del [BIP39](#monete-o-dadi-6-facce).
