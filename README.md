@@ -18,9 +18,9 @@ Se non conoscete questa pratica, vi consiglio di leggere la guida redatta da [Tu
 Ho appositamente menzionato le monete, perché ritengo che possa essere più semplice recuperare 11 monete identiche piuttosto che 11 dadi.<br>
 E' anche vero che si può utilizzare un solo dato e lanciarlo 11 volte per parola da generare, ma tutta la trafila risulterà più lunga.
 
-A questo proposito, però, vi segnalo una procedura che ha studiato un amico, che vi permette di generare la SeedPhrase lanciando un dado da 6, un numero limitato di volte.<br>
-Per il momento potete trovare la guida pubblicata da **Il Leo** su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0) e presenta allo Spazio21 di Lugano nel 2025.
-
+A questo proposito, però, vi segnalo una procedura che ha ideato **Il Leo** e che vi permette di generare la SeedPhrase lanciando un solo dado da 6, un numero limitato di volte.<br>
+La guida pubblicata da **Il Leo** è stata presenta allo Spazio21 di Lugano nel 2025. <br>
+Se vi siete persi il suo speech, potrete trovare la sua guida su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0) e interagire con lui per qualsiasi domanda.
 ![Il Leo - Spazio21 2025](assets/Il_Leo.png)
 
 ### Altri tipi di Dadi
