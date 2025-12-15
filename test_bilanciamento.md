@@ -6,13 +6,13 @@ Di seguito vi illustro alcuni test che si possono eseguire in casa per verificar
 
 Inizio riportando nuovamente i controlli visivi che si possono effettuare:
 
-1. Forma:
+1. **Forma:**
    * La forma del dado è simmetrica?
    * Ci sono difformità o imperfezioni evidenti?
-2. Distribuzione del peso:
+2. **Distribuzione del peso:**
    * Tenendo il dado in mano, sembrano esserci lati più pesanti?
    * Facendo rotolare in mano il dado, si sentono differenze di peso?
-3. Qualità della superficie:
+3. **Qualità della superficie:**
    * Ad una ispezione visiva, risultano irregolarità?
    * Ci sono eventuali ammaccature ad angoli o bordi?
 
@@ -87,3 +87,4 @@ Anche una scarsa qualità costruttiva potrebbe causare queste differenze.
 ![Dice Banner](assets/Dice_banner.jpg)
 ***
 ## Analisi dei Dati
+*... prossimamente ...*
