@@ -138,18 +138,18 @@ Vediamo ora come possiamo scrivere il numero 2047:
 4. Come ultimi ruota del carro, invece, troviamo i d16.
    Oltre a tutto quello che vi ho detto su questi dadi, vi riporto la descrizione ne che fece il mio fidato negoziante: "*una cinesata inventata da Temu o piattaforme simili*".
 
-#### Sicché, visto che anche la sola reperibilità di un d16 è complessa, *evitate di farvi irretire dai **fuffa-guru*** ed utilizzate un metodo serio per generare una cosa importantissima come la vostra **SeedPhrase**.
-
+---
+### ***Conclusione***
+#### Lo scopo di questo testo era quello di mettervi a conoscenza di quanto fosse rischioso utilizzare i dadi 16 facce in questo contesto.<br> Vi esorto pertanto ad  *evitare di farvi irretire dai **fuffa-guru*** che sonorizzano il d16 e ad utilizzate ***un metodo serio*** per generare una cosa importantissima come la vostra **SeedPhrase**.
+---
 ---
 
----
-
-##### Prossimamente:
+#### Prossimamente:
 
 * Seguirà una veloce guida su come generare la SeedPhrase in ottale (con il d4 + 3 d8);<br>
-  Per il momento vi lascio la tabella del BIP39 con i valori decimali, binari ed ottali:
-* Un amico dovrebbe pubblicare il codice per generare il checksum sia dalle 11 (o 23) parole (dando quindi scelte multiple), ma anche generando con i dadi la prima metà dell'ultima parola;
-* Pubblicherò quì le mi prove fatte con il d16, che per il momento potete leggere in [questo PDF](assets/D16.pdf).<br> A proposito di questo documento, devo però dirvi:
+  Per il momento vi lascio la tabella del BIP39 con i valori decimali, binari ed ottali: [BIP39 Octal](assets/BIP39_oct.pdf);<br>
+* Un amico dovrebbe pubblicare il codice per generare il checksum sia dalle 11 (o 23) parole (dando quindi scelte multiple), ma anche generando con i dadi la prima metà dell'ultima parola;<br>
+* Pubblicherò poi le mi prove fatte con il d16; che per il momento potete leggere in [questo PDF preliminare](assets/D16.pdf).<br> A proposito di questo documento, devo però dirvi:
   * Non avevo ancora fatto collegamento ai solidi platonici;
   * Ho effettuato "*solo*" 384 lanci ed il lancio **75** riporta un valore errato;
   * Non ho ancora redatto le conclusioni matematiche.
