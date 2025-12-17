@@ -161,7 +161,7 @@ Vediamo ora come possiamo scrivere il numero 2047:
 * **3777 in ottale**:
   * possiamo ottenere questo valore con un d4 e tre d8;
 * **7FF in esadecimale**:
-  * ma non possiamo ottenere questo valore con nessun dado derivante da un **Solido Platonico**.
+  * ma non possiamo ottenere questo valore con un dado derivante da un **Solido Platonico**.
 
 **Cosa conviene usare allora?**
 
