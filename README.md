@@ -1,4 +1,4 @@
-# SeedPhrase, Dadi e Security Tradeoff
+# SeedPhrase, Dadi e **Security Tradeoff**
 
 ### Chiunque si sia dimostrato interessato a Bitcoin, prima o poi ha dovuto affrontare la generazione di una SeedPhrase.
 
@@ -11,30 +11,32 @@ Non è mia intenzione dare l'ennesima guida di come generare la SeedPhrase, ma v
 
 ### Monete o Dadi 6 facce
 
-Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole introdotte con il [BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzate 11 monete oppure 11 dadi da 6 facce.
+Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole introdotte con il [:link: BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzate 11 monete oppure 11 dadi da 6 facce.
 
-Se non conoscete questa pratica, vi consiglio di leggere la guida redatta da [Turtlecute](https://github.com/Turtlecute33) e pubblicata su suo sito: [turtlecute.org/seed](https://turtlecute.org/seed/). La stessa procedura può essere utilizzata utilizzando 11 monete.
+Se non conoscete questa pratica, vi consiglio di leggere la guida redatta da [:link: Turtlecute](https://github.com/Turtlecute33) e pubblicata su suo sito: [:link: turtlecute.org/seed](https://turtlecute.org/seed/). La stessa procedura può essere utilizzata utilizzando 11 monete.
 
 Ho appositamente menzionato le monete, perché ritengo che possa essere più semplice recuperare 11 monete identiche piuttosto che 11 dadi.<br>
-E' anche vero che si può utilizzare un solo dato e lanciarlo 11 volte per parola da generare, ma tutta la trafila risulterà più lunga.
+E' anche vero che si può utilizzare un solo dado e lanciarlo 11 volte per ogni parola da generare, ma la procedura risulterà più lunga.
 
-A questo proposito, però, vi segnalo una procedura che ha ideato **Il Leo** e che vi permette di generare la SeedPhrase lanciando un solo dado da 6, un numero limitato di volte.<br>
-La guida pubblicata da **Il Leo** è stata presenta allo Spazio21 di Lugano nel 2025. <br>
-Se vi siete persi il suo speech, potrete trovare la sua guida su questo gruppo Telegram: [ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0) e interagire con lui per qualsiasi domanda.
+A questo proposito, però, vi segnalo un metodo che ha ideato **Il Leo** e che permette di generare la SeedPhrase lanciando un solo dado da 6, un numero limitato di volte.<br>
+La guida pubblicata da **Il Leo** è stata presenta allo *Spazio21 di Lugano* nel 2025. <br>
+Se vi siete persi il suo speech, potrete trovare la sua guida su questo gruppo Telegram: [:link: ABC del ₿itcoin](https://t.me/+GlEaD0WD53BmNGE0) e interagire con lui per qualsiasi domanda.
 ![Il Leo - Spazio21 2025](assets/Il_Leo.png)
+
+---
 
 ### Altri tipi di Dadi
 
-Molto spesso mi sono imbattuto in guide che esortano gli utenti ad utilizzare altri tipi di dadi.
-La maggior parte di queste guide alternative, però, spingono gli utenti ad utilizzare i ***dadi da 16 facce***.
+Mi è capitato di imbattermi in guide che esortano gli utenti ad utilizzare altri tipi di dadi.
+La maggior parte di queste guide alternative, però, spingono gli utenti ad utilizzare i ***dadi da 16 facce*** :interrobang:.
 
 Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)), quasi cascai dalla sedia quando sentii nominare questi dadi.
 
-* Mai sentiti;
-* Mai utilizzati;
-* Mai visti in nessun negozio e nessuna fiera.
+* Mai sentiti :bangbang:;
+* Mai utilizzati :bangbang:;
+* Mai visti in nessun negozio e nessuna fiera :bangbang:.
 
-Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon.<br>
+Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon :shit:.<br>
 All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
 Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione e nella ricerca.
 
@@ -47,9 +49,9 @@ La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che inv
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
-* le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè sovrapponibili esattamente);
-* i suoi [spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
-* i suoi [vertici](https://it.wikipedia.org/wiki/Vertice_(geometria)) sono tutti equivalenti, sicché i suoi [angoloidi](https://it.wikipedia.org/wiki/Angoloide) (angoli interni tridimensionali) hanno tutti la stessa ampiezza.
+* le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè sovrapponibili esattamente);
+* i suoi [:link: spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
+* i suoi [:link: vertici](https://it.wikipedia.org/wiki/Vertice_(geometria)) sono tutti equivalenti, sicché i suoi [:link: angoloidi](https://it.wikipedia.org/wiki/Angoloide) (angoli interni tridimensionali) hanno tutti la stessa ampiezza.
 
 Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 
@@ -71,14 +73,37 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 | Dado 10 facce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D10                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli. | ![D10](assets/Dice_D10.jpg) |
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli. | ![D10](assets/Dice_D10.jpg) |
 
 ## il Dado a 16 facce
 
-Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è un solido platonico, ma non come il D10, il D16 non rispecchia NESSUNA delle caratteristiche che identificano un Solido Platonico.<br>
-Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato.<br> Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si vedono le prime devianze nei risultati.<br> In futuro riporterò i test che ho eseguito con il d16, per il momento ho inserito un link ad un documento preliminare nella sezione [Prossimamente](#prossimamente).
+Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è uno di questi, ma non come il D10, il D16 non rispecchia **NESSUNA** delle caratteristiche che identificano un Solido Platonico.<br>
+Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato.<br> Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si identificano le prime devianze nei risultati.<br> In futuro riporterò i test che ho eseguito con il d16, per il momento ho inserito un link ad un documento preliminare nella sezione [Prossimamente](#prossimamente).
 
 ## Dadi Bilanciati
+Cos'è un dado bilanciato e perché è così importante? <br>
+Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita.<br>
+Ideologicamente, questo è quello che ci aspetteremmo da ogni dato, ma, all'atto pratico, non è così.
+
+Esiste tutta una serie di dadi bilanciati. Si tratta dei **dadi a 6 facce** che si utilizzano nei tavoli da gioco dei casinò. <br>
+Questi dadi sono generati con materiali qualitativamente superiori e sono certificati per questo tipo di giochi d'azzardo. <br>
+Questi oggetti dall'aspetto banale, hanno dei costi decisamente importanti. Di seguito vi riporto alcuni esempi di dadi bilanciati:
+* Partiamo con un dado di qualità. Non è dichiarato come bilanciato, ma è sicuramente ben fatto e molto curato:
+  * Dal Negro, Dadi Puntati color avorio: https://amzn.to/4pE0uLL
+* Vediamo ora un altro dado di qualità, ma anch'esso senza definizione di *calibrato*
+  * Dadi da Casinò Blu: https://amzn.to/3MyJvMu
+* Un altro set di dadi da casinò:
+  * Dadi grado AAA con bordi a rasoio: https://amzn.to/4iZ0yDj
+* Finiamo con i **Gravity Dice** di cui vi lascio anche il sito: [:link: gravitydice.com](https://store.gravitydice.com/)
+  * Ultra Pro Gravity Dice: https://amzn.to/4q6PA1M
+  * Vi prego di notare che solo di d6 vengono definiti calibrati, infatti nelle specifiche dei d6 possiamo leggere:
+    * Ogni dado è lavorato in alluminio di alta qualità;
+    * ogni pip è praticato con una profondità calcolata per assicurare di una perfetta bilanciatura al dado.
+
+Potete capire che dover calcolare la profondità di ogni pip per garantire un perfetto bilanciamento del dado, comporta un costo elevato. <br>
+Da notare che la **Gravity Dice** dichiara come perfettamente bilanciati **solo i d6**, tutti gli altri sono bellissimi dadi in alluminio areonautico, ma senza nessuna prerogativa di bilanciamento.
+
+Cosa si può fare per non affrontare simili costi?
 
 Di seguito alcuni suggerimenti per capire se un dado è, quantomeno in apparenza bilanciato:
 
@@ -92,10 +117,10 @@ Di seguito alcuni suggerimenti per capire se un dado è, quantomeno in apparenza
    * Ad una ispezione visiva, risultano irregolarità?
    * Ci sono eventuali ammaccature ad angoli o bordi?
 
-Queste sono semplici linee guida per verificare il bilanciamento di un dado.
-Il **dado da 16 facce**, *non può superare il primo punto* visto che, avendo facce differenti tra di loro, non può risultare simmetrico.
+Queste sono semplici linee guida per verificare il bilanciamento di un dado. <br>
+Il **dado da 16 facce**, *non può superare il primo punto* visto che, avendo facce differenti tra di loro, non può risultare simmetrico, pertanto **non può in nessun modo essere definito bilanciato**.
 
-Ci sono dei test pratici per verificare se un dado è bilanciato, ma vengono descritti in un [altro documento](test_bilanciamento.md).
+Ci sono dei test pratici per verificare se un dado è bilanciato, ma vengono descritti in un [:link: altro documento](test_bilanciamento.md).
 
 ## Che dadi usare per generare una SeedPhrase?
 
@@ -137,13 +162,17 @@ Vediamo ora come possiamo scrivere il numero 2047:
 2. A bravissima distanza troviamo il d6 visto che lo possiamo reperire in quasi ogni casa;<br> Magari non tutti ne avranno 11, ma almeno uno sí.
 3. Un sistema più pratico, invece, è quello di usare il set composto da un d4 e da tre d8.<br>
    Questi dadi sono sì particolari, ma reperibili in tutte le case di un giocatore di GdR o in un qualsivoglia negozio di giochi.
-4. Come ultimi ruota del carro, invece, troviamo i d16.
-   Oltre a tutto quello che vi ho detto su questi dadi, vi riporto la descrizione ne che fece il mio fidato negoziante: "*una cinesata inventata da Temu o piattaforme simili*".
+4. Come soluzione da scartare, invece, troviamo i d16.
+   Oltre a tutto quello che vi ho detto su questi dadi (non sono Solidi Platonici e non possono essere Bilanciati), vi riporto la descrizione ne che fece il mio fidato negoziante: "*una cinesata inventata da Temu o piattaforme simili*".
 
 ---
+
 ### ***Conclusione***
-#### Lo scopo di questo testo era quello di mettervi a conoscenza di quanto fosse rischioso utilizzare i dadi 16 facce in questo contesto.<br> Vi esorto pertanto ad  *evitare di farvi irretire dai **fuffa-guru*** che sonorizzano il d16 e ad utilizzate ***un metodo serio*** per generare una cosa importantissima come la vostra **SeedPhrase**.
+
+#### Spero di avervi fornito sufficienti elementi per farvi desistere dal generare la vostra Seed Phrase utilizzando dadi a 16 facce. <br> Nel caso lo aveste fatto, vi consiglio caldamente di generare una nuova SeedPhrase con un dado migliore.
+
 ---
+
 ---
 
 #### Prossimamente:
