@@ -32,9 +32,9 @@ La maggior parte di queste guide alternative, però, spingono gli utenti ad util
 
 Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)), quasi cascai dalla sedia quando sentii nominare questi dadi.
 
-* Mai sentiti :bangbang:;
-* Mai utilizzati :bangbang:;
-* Mai visti in nessun negozio e nessuna fiera :bangbang:.
+* :bangbang: Mai sentiti;
+* :bangbang: Mai utilizzati;
+* :bangbang: Mai visti in nessun negozio e nessuna fiera.
 
 Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon :shit:.<br>
 All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
@@ -75,33 +75,36 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, essendo [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. Avendo uno solo dei tre requisiti, il D10 non può essere considerato un Solido Platonico. Nonostante questo, le facce omogenee garantiscono una discreta euristica, sicché i giocatori di ruolo, possono stare tranquilli. | ![D10](assets/Dice_D10.jpg) |
 
+Le proprietà specifiche di un Solido Platonico applicate ad un dado, garantiscono una omogeneità ai risultati garantendo una **elevata entropia**.
+
+
 ## il Dado a 16 facce
 
-Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è uno di questi, ma non come il D10, il D16 non rispecchia **NESSUNA** delle caratteristiche che identificano un Solido Platonico.<br>
+Questa brevissima analisi dei Solidi Platonici ci serve per comprendere che il D16 non è uno di questi, ma non come il D10, il D16 non rispecchia **NESSUNA** delle caratteristiche che identificano un Solido Platonico.
+
+Questo si traduce in una **scarsissima entropia**, mentre a noi serve qualcosa che ci garantisca esattamente l'opposto.
+
 Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato.<br> Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si identificano le prime devianze nei risultati.<br> In futuro riporterò i test che ho eseguito con il d16, per il momento ho inserito un link ad un documento preliminare nella sezione [Prossimamente](#prossimamente).
 
 ## Dadi Bilanciati
 Cos'è un dado bilanciato e perché è così importante? <br>
-Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita.<br>
+Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita. Questa prerogativa implica una elevata **entropia**<br>
 Ideologicamente, questo è quello che ci aspetteremmo da ogni dato, ma, all'atto pratico, non è così.
 
 Esiste tutta una serie di dadi bilanciati. Si tratta dei **dadi a 6 facce** che si utilizzano nei tavoli da gioco dei casinò. <br>
 Questi dadi sono generati con materiali qualitativamente superiori e sono certificati per questo tipo di giochi d'azzardo. <br>
-Questi oggetti dall'aspetto banale, hanno dei costi decisamente importanti. Di seguito vi riporto alcuni esempi di dadi bilanciati:
-* Partiamo con un dado di qualità. Non è dichiarato come bilanciato, ma è sicuramente ben fatto e molto curato:
-  * Dal Negro, Dadi Puntati color avorio: https://amzn.to/4pE0uLL
+Questi oggetti dall'aspetto banale, hanno dei costi decisamente importanti. <br> Di seguito vi riporto alcuni esempi di dadi bilanciati:
+* Partiamo con un dado di qualità. <br> Non è dichiarato come bilanciato, ma è sicuramente ben fatto e molto curato:
+  * Dal Negro, Dadi Puntati color avorio: [:link: amazon.it](https://amzn.to/4pE0uLL)
 * Vediamo ora un altro dado di qualità, ma anch'esso senza definizione di *calibrato*
-  * Dadi da Casinò Blu: https://amzn.to/3MyJvMu
+  * Dadi da Casinò Blu: [:link: amazon.it](https://amzn.to/3MyJvMu)
 * Un altro set di dadi da casinò:
-  * Dadi grado AAA con bordi a rasoio: https://amzn.to/4iZ0yDj
+  * Dadi grado AAA con bordi a rasoio: [:link: amazon.it](https://amzn.to/4iZ0yDj)
 * Finiamo con i **Gravity Dice** di cui vi lascio anche il sito: [:link: gravitydice.com](https://store.gravitydice.com/)
-  * Ultra Pro Gravity Dice: https://amzn.to/4q6PA1M
+  * Ultra Pro Gravity Dice: [:link: amazon.it](https://amzn.to/4q6PA1M)
   * Vi prego di notare che solo di d6 vengono definiti calibrati, infatti nelle specifiche dei d6 possiamo leggere:
     * Ogni dado è lavorato in alluminio di alta qualità;
     * ogni pip è praticato con una profondità calcolata per assicurare di una perfetta bilanciatura al dado.
-
-Potete capire che dover calcolare la profondità di ogni pip per garantire un perfetto bilanciamento del dado, comporta un costo elevato. <br>
-Da notare che la **Gravity Dice** dichiara come perfettamente bilanciati **solo i d6**, tutti gli altri sono bellissimi dadi in alluminio areonautico, ma senza nessuna prerogativa di bilanciamento.
 
 Cosa si può fare per non affrontare simili costi?
 
@@ -121,23 +124,27 @@ Queste sono semplici linee guida per verificare il bilanciamento di un dado. <br
 Il **dado da 16 facce**, *non può superare il primo punto* visto che, avendo facce differenti tra di loro, non può risultare simmetrico, pertanto **non può in nessun modo essere definito bilanciato**.
 
 Ci sono dei test pratici per verificare se un dado è bilanciato, ma vengono descritti in un [:link: altro documento](test_bilanciamento.md).
+##### NOTA BENE :bangbang:
+Potete capire che dover calcolare la profondità di ogni pip per garantire un perfetto bilanciamento del dado, comporta un costo elevato. <br>
+Controllando le pagine di **Gravity Dice**, dichiarano come perfettamente bilanciati **solo i d6 !!**. Tutti gli altri sono bellissimi dadi in alluminio areonautico, ma senza nessuna prerogativa di bilanciamento.
+
+![Dice Banner](assets/Dice_banner.jpg)
 
 ## Che dadi usare per generare una SeedPhrase?
 
 Arriviamo ora ad affrontare quello che veramente ci interessa! Che dadi utilizzare per generare un SeedPhrase?
 
-![Dice Banner](assets/Dice_banner.jpg)
-
 Rimane sempre possibile utilizzare delle monete, ma volendo utilizzare dei dadi, allora, è indispensabile utilizzare un **Solido Platonico** per sperare di avere una adeguata entropia.
 
-Proprio per questo motivo, **BISOGNA RIGOROSAMENTE ESCLUDERE IL DADO DA 16 FACCE!!**. Non mi importa assolutamente che alcune guide li raccomandino, vi ho fornito molte informazioni su cui ragionare. Spero che possiate facilmente giungere alla mia stessa conclusione ed **evitare di seguire le guide che invitano a utilizzare questi dadi**.
+Proprio per questo motivo, **BISOGNA RIGOROSAMENTE ESCLUDERE IL DADO DA 16 FACCE!!**. Non mi importa assolutamente che alcune guide li raccomandino, vi ho fornito molte informazioni su cui ragionare. Spero che possiate facilmente giungere alla mia stessa conclusione ed **evitare di creare una SeedPhrase con una bassissima entropia**.
 
 A questo punto, che dadi possiamo usare?<br>
 la risposta potrebbe essere decisamente articolata, ma cercherò di semplificarla.
 
 * Un solo dado da 6 usando la guida redatta da *Il Leo*;
-* Un qualsiasi dado basato su un Solido Platonico, usandolo per generare un numero binario. Decidendo a priori quali facce assegnare al valore zero e quali al valore uno e seguendo una delle numerose guide (come quella di Turtlecute);
-* Un set composto da 4 dadi: un dado da 4 e tre dadi da 8.
+* Un qualsiasi dado basato su un Solido Platonico, usandolo per generare un numero binario. <br>
+Bisogna decidere a priori quali facce assegnare al valore zero e quali al valore uno e poi seguire una delle numerose guide (come quella di Turtlecute);
+* Un set composto da 4 dadi: **un dado da 4 e tre dadi da 8**.
 
 Ora vi spiego perché questo set di 4 dadi va bene, mentre il set che prevede l'uso dei d16 no.<br>
 Solamente per un morivo Geometrico, il d4 ed il d8 sono **Solidi Platonici**, mentre il d16, no!!
@@ -154,7 +161,7 @@ Vediamo ora come possiamo scrivere il numero 2047:
 * **3777 in ottale**:
   * possiamo ottenere questo valore con un d4 e tre d8;
 * **7FF in esadecimale**:
-  * potremmo ottenere questo valore con un d8 e due d16, ma, come abbiamo visto, *non essendo un Solido Platonico il d16 è da evitare come la peste*.
+  * ma non possiamo ottenere questo valore con nessun dado derivante da un **Solido Platonico**.
 
 **Cosa conviene usare allora?**
 
