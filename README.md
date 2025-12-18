@@ -11,7 +11,7 @@ Non è mia intenzione fare l'ennesima guida di come generare la SeedPhrase, ma v
 
 ### Monete o Dadi 6 facce
 
-Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole introdotte con il [:link: BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzate 11 monete oppure 11 dadi.
+Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole introdotte con il [:link: BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzate 11 monete oppure 11 dadi; generalmente dadi a 6 facce (d6).
 
 Se non conoscete questa pratica, vi consiglio di leggere la guida redatta da [:link: Turtlecute](https://github.com/Turtlecute33) e pubblicata su suo sito: [:link: turtlecute.org/seed](https://turtlecute.org/seed/). La stessa procedura può essere utilizzata utilizzando 11 monete.
 
@@ -27,34 +27,35 @@ Se vi siete persi il suo speech, potrete trovare la sua guida su questo gruppo T
 
 ### Altri tipi di Dadi
 
-Mi è capitato di imbattermi in guide che esortano gli utenti ad utilizzare altri tipi di dadi.
-La maggior parte di queste guide alternative, però, spingono gli utenti ad utilizzare i ***dadi da 16 facce*** :interrobang:.
+Mi è capitato di imbattermi in guide che esortano gli utenti ad utilizzare altri tipi di dadi, ad esempio una indicava di usare un dado da 20 facce (d20) e un dado da 100 facce. In realtà, i 100 numeri erano generati con 2 dadi da 10 facce (d10).<cr>
+Molte di queste guide alternative, però si basano sull'utilizzo di dadi da 16 facce (d16) :interrobang: ***dadi da 16 facce*** :interrobang: 
 
-Da giocatore di **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)), quasi cascai dalla sedia quando sentii nominare questi dadi.
+Ho iniziato a giocare a **D&D** (il più famoso [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo)) parecchi lustri fa. Dopo D&D ho provato molti altri GdR ed in tutti si usavano svariati dadi, ma quasi cascai dalla sedia quando sentii nominare i ***d16***.
 
 * :bangbang: Mai sentiti;
 * :bangbang: Mai utilizzati;
 * :bangbang: Mai visti in nessun negozio e nessuna fiera.
 
-Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon :shit:.<br>
-All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce differenti ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
-Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione e nella ricerca.
+Ho contattato tutti i miei conoscenti, sia giocatori che master (la persona che amministra un GdR), ma **nessuno conosceva questo dado**.
 
-Mi sono documentato sull'origine dei dadi e mi sono imbattuto in una informazione che i miei lontani studi di Geometria, non avevano afferrato: **I Solidi Platonici**. Questo argomento è molto importante in questo contesto, pertanto ve ne faccio un accenno:
+Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce (:shit:) su Amazon.<br>
+All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce differenti ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
+Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione, ma, soprattutto, *nella ricerca*.
+
+Mi sono documentato sull'origine dei dadi e mi sono imbattuto in una informazione che, i miei lontani studi di Geometria, non avevano afferrato: **I Solidi Platonici**.<br> Questo argomento è molto importante in questo contesto, pertanto ve ne faccio un accenno:
 
 ## I Solidi Platonici
 
 **Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.<br>
-La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perché la sua regolarità è molto importante.
+La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perché le sue *caratteristiche di regolarità* sono molto importanti.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [:link: poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
-* le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè sovrapponibili esattamente);
+* le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè esattamente sovrapponibili);
 * i suoi [:link: spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
 * i suoi [:link: vertici](https://it.wikipedia.org/wiki/Vertice_(geometria)) sono tutti equivalenti, sicché i suoi [:link: angoloidi](https://it.wikipedia.org/wiki/Angoloide) (angoli interni tridimensionali) hanno tutti la stessa ampiezza.
 
 Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
-
 
 | Tetraedro                            | Esaedro                           | Ottaedro                           | Dodecaedro                             | Icosaedro                            |
 | -------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- |
@@ -68,17 +69,17 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 | D4                        | D6                        | D8                        | D12                         | D20                         |
 | --------------------------- | --------------------------- | --------------------------- | ----------------------------- | ----------------------------- |
-| ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
+| ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg)|
 
 
 
 | Dado 10 facce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D10                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. <br> Non avendo nessuno dei tre requisiti, il D10 non può essere considerato un Solido Platonico.<br> Nonostante questo, le facce omogenee, garantiscono una discreta euristica che per i giocatori di ruolo è sufficiente.<br> Presenta 10 facce a forma di aquilone. | ![D10](assets/Dice_D10.jpg)<br>[D10](assets/d10-dice-opaque-light-blue__300px.jpg) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. <br> Non avendo nessuno dei tre requisiti, il D10 **non può** essere considerato un Solido Platonico.<br> Nonostante questo, le facce omogenee garantiscono una discreta euristica che per i giocatori di ruolo è sufficiente.<br> Le sue 10 facce hanno una forma che ricorda un aquilone. | ![D10](assets/Dice_D10.jpg)<br> ![D10 Blue](assets/d10-dice-opaque-light-blue__300px.jpg) |
 
 
-
-Le proprietà specifiche di un Solido Platonico, applicate ad un dado, garantiscono una omogeneità ai risultati pertanto una **elevata entropia**.
+#### Qual'è la correlazione tra Solidi platonici e dadi ?
+Le proprietà specifiche di un **Solido Platonico** applicate ad un dado, garantiscono una omogeneità ai risultati presentando una **elevata entropia**.
 
 ## il Dado a 16 facce
 
@@ -94,12 +95,12 @@ Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effett
 
 ## Dadi Bilanciati
 Cos'è un dado bilanciato e perché è così importante? <br>
-Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita. Questa prerogativa implica una elevata **entropia**<br>
+Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita. Questa prerogativa implica una elevata **entropia**.<br>
 Ideologicamente, questo è quello che ci aspetteremmo da ogni dato, ma, all'atto pratico, non è così.
 
-Esiste tutta una serie di **dadi bilanciati**. Si tratta dei **dadi a 6 facce** che si utilizzano nei tavoli da gioco dei casinò. <br>
-Questi dadi sono generati con materiali qualitativamente superiori e sono certificati per questo tipo di giochi d'azzardo. <br>
-Questi oggetti dall'aspetto banale, hanno dei costi decisamente importanti. <br> Di seguito vi riporto alcuni esempi di dadi più o meno bilanciati:
+Esiste tutta una serie di **dadi bilanciati**; si tratta dei **dadi a 6 facce** che si utilizzano nei tavoli da gioco dei casinò. <br>
+Questi dadi sono prodotti con materiali qualitativamente superiori e sono certificati per l'utilizzo in giochi d'azzardo. <br>
+Questi oggetti dall'aspetto banale, però, hanno dei costi decisamente importanti. <br> Di seguito vi riporto alcuni esempi di dadi più o meno bilanciati:
 * Partiamo con un dado di qualità. <br> Non è dichiarato come bilanciato, ma è sicuramente ben fatto e molto curato:
   * Dal Negro, Dadi Puntati color avorio: [:link: amazon.it](https://amzn.to/4pE0uLL)
 * Vediamo ora un altro dado di qualità, ma anch'esso senza qualifica di *calibrato*:
@@ -114,10 +115,10 @@ Questi oggetti dall'aspetto banale, hanno dei costi decisamente importanti. <br>
 
 Cosa si può fare per non affrontare simili costi?
 
-Di seguito alcuni suggerimenti per capire se un dado è, quantomeno in apparenza bilanciato:
+Di seguito alcuni suggerimenti per capire se un dado (anche uno normale e non da 6 facce) è, quantomeno in apparenza bilanciato:
 
 1. Forma:
-   * La forma del dado è simmetrica?
+   * La forma del dado è simmetrica? (è un solido platonico? )
    * Ci sono difformità o imperfezioni evidenti?
 2. Distribuzione del peso:
    * Tenendo il dado in mano, sembrano esserci lati più pesanti?
@@ -131,7 +132,7 @@ Il **dado da 16 facce**, *non può superare il primo punto* visto che, avendo fa
 
 Esistono test pratici per verificare se un dado è bilanciato, ma vengono descritti in un [:link: altro documento](test_bilanciamento.md).
 ##### NOTA BENE :bangbang:
-Per creare un dado bilanciato, è necessario calcolare la profondità di ogni pip per garantire un perfetto bilanciamento del dado, ed è per questo che i costi sono elevati. <br>
+Per creare un dado bilanciato, è necessario realizzare ogni pip di una profondità specifica per garantire un perfetto bilanciamento del dado; questa lavorazione di precisione grava sul costo di questo prodotto. <br>
 Controllando le pagine di **Gravity Dice**, dichiarano come perfettamente bilanciati **solo i d6 !!**. Tutti gli altri sono bellissimi dadi in alluminio areonautico, ma senza nessuna prerogativa di bilanciamento.
 
 ![Dice Banner](assets/Dice_banner.jpg)
