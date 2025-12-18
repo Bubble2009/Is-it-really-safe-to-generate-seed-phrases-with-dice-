@@ -47,7 +47,7 @@ Mi sono documentato sull'origine dei dadi e mi sono imbattuto in una informazion
 **Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.<br>
 La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire le caratteristiche di un **Solido Platonico** e perché la sua regolarità è molto importante.
 
-Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
+Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [:link: poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
 
 * le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) hanno tutte la stessa superficie, essendo [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari) [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)) (cioè sovrapponibili esattamente);
 * i suoi [:link: spigoli](https://it.wikipedia.org/wiki/Spigolo) hanno tutti la stessa lunghezza;
@@ -63,7 +63,7 @@ Esistono **soltanto cinque solidi** con queste caratteristiche e sono:
 
 Le caratteristiche di un Solido Platonico, garantiscono una perfetta simmetria tra le varie facce, garantendo che nessuna faccia abbia una probabilità *fisica* si avere un vantaggio/svantaggio rispetto alle altre in caso di rotolamento.<br>
 Per questo motivo, da questi solidi, derivano i dadi che utilizziamo comunemente.
-Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono meno diffusi, ma molto utilizzati nei [GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
+Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono meno diffusi, ma molto utilizzati nei [:link: GdR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) (giochi di ruolo).
 
 
 | D4                        | D6                        | D8                        | D12                         | D20                         |
@@ -71,9 +71,12 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 | ![D4](assets/Dice_D4.jpg) | ![D6](assets/Dice_D6.jpg) | ![D8](assets/Dice_D8.jpg) | ![D12](assets/Dice_D12.jpg) | ![D20](assets/Dice_D20.jpg) |
 
 
+
 | Dado 10 facce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D10                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. <br> Non avendo nessuno dei tre requisiti, il D10 non può essere considerato un Solido Platonico.<br> Nonostante questo, le facce omogenee, garantiscono una discreta euristica che per i giocatori di ruolo è sufficiente. | ![D10](assets/Dice_D10.jpg) |
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma sebbene le sue [:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti. <br> Non avendo nessuno dei tre requisiti, il D10 non può essere considerato un Solido Platonico.<br> Nonostante questo, le facce omogenee, garantiscono una discreta euristica che per i giocatori di ruolo è sufficiente.<br> Presenta 10 facce a forma di aquilone. | ![D10](assets/Dice_D10.jpg)<br>[D10](assets/d10-dice-opaque-light-blue__300px.jpg) |
+
+
 
 Le proprietà specifiche di un Solido Platonico, applicate ad un dado, garantiscono una omogeneità ai risultati pertanto una **elevata entropia**.
 
@@ -84,6 +87,9 @@ Oltretutto, a differenza del d10, non ha nemmeno le facce omogenee.
 
 Questo si traduce in una **scarsissima entropia**, mentre a noi serve qualcosa che ci garantisca esattamente l'opposto.
 
+Per conoscenza, vi lascio il collegamento alla pagina di 
+**Dice Collecting Wiki** inerente al [:link: d16](https://dice.miraheze.org/wiki/D16). Potrete notare come vi siano molteplici forme con cui è stato realizzato il dado da 16 facce, ma nessuna di questa è riconducibile ad un Solido Platonico.
+
 Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato.<br> Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si identificano le prime devianze nei risultati.<br> In futuro riporterò quì i test che ho eseguito con il d16; per il momento ho inserito un link ad un documento preliminare nella sezione [Prossimamente](#prossimamente).
 
 ## Dadi Bilanciati
@@ -91,7 +97,7 @@ Cos'è un dado bilanciato e perché è così importante? <br>
 Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita. Questa prerogativa implica una elevata **entropia**<br>
 Ideologicamente, questo è quello che ci aspetteremmo da ogni dato, ma, all'atto pratico, non è così.
 
-Esiste tutta una serie di dadi bilanciati. Si tratta dei **dadi a 6 facce** che si utilizzano nei tavoli da gioco dei casinò. <br>
+Esiste tutta una serie di **dadi bilanciati**. Si tratta dei **dadi a 6 facce** che si utilizzano nei tavoli da gioco dei casinò. <br>
 Questi dadi sono generati con materiali qualitativamente superiori e sono certificati per questo tipo di giochi d'azzardo. <br>
 Questi oggetti dall'aspetto banale, hanno dei costi decisamente importanti. <br> Di seguito vi riporto alcuni esempi di dadi più o meno bilanciati:
 * Partiamo con un dado di qualità. <br> Non è dichiarato come bilanciato, ma è sicuramente ben fatto e molto curato:
@@ -161,7 +167,7 @@ Vediamo ora come possiamo scrivere il numero 2047:
 * **3777 in ottale**:
   * possiamo ottenere questo valore con un d4 e tre d8;
 * **7FF in esadecimale**:
-  * ma non possiamo ottenere questo valore con un dado derivante da un **Solido Platonico**.
+  * ma non possiamo ottenere questo valore con un dado derivante da un **Solido Platonico** visto che il d16 non è tra questi solidi.
 
 **Cosa conviene usare allora?**
 
