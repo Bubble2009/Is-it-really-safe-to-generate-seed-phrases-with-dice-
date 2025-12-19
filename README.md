@@ -36,9 +36,9 @@ Ho iniziato a giocare a **D&D** (il più famoso [GdR](https://it.wikipedia.org/w
 * :bangbang: Mai utilizzati;
 * :bangbang: Mai visti in nessun negozio e nessuna fiera.
 
-Ho contattato tutti i miei conoscenti, sia giocatori che master (la persona che amministra un GdR), ma **nessuno conosceva questo dado**.
+Ho contattato tutti i miei conoscenti, sia giocatori che  [:link: game master](https://it.wikipedia.org/wiki/Game_master), ma **nessuno conosceva questo dado**.
 
-Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo*) [questi dadi](https://amzn.to/48HkGFp) da 16 facce (:shit:) su Amazon.<br>
+Così, pieno di curiosità e aspettative, ho acquistato (*voi non fatelo :shit:*) [:link: questi dadi](https://amzn.to/48HkGFp) da 16 facce su Amazon.<br>
 All'arrivo ho subito notato che le 16 facce non erano tutte uguali, anzi, erano presenti 3 tipi di facce differenti ed oltretutto erano **forme geometriche IRREGOLARI**.<br>
 Spinto dalla filosofia *"don't trust, verify"*, mi sono lanciato nella sperimentazione, ma, soprattutto, *nella ricerca*.
 
