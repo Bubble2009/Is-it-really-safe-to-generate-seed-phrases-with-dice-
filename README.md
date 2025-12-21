@@ -93,6 +93,14 @@ Per conoscenza, vi lascio il collegamento alla pagina di
 
 Quanto descritto fino ad ora, si rispecchia perfettamente nei test che ho effettuato.<br> Sebbene per il momento il quantitativo di lanci su cui ho basato la mia analisi sia esiguo, già si identificano le prime devianze nei risultati.<br> In futuro riporterò quì i test che ho eseguito con il d16; per il momento ho inserito un link ad un documento preliminare nella sezione [Prossimamente](#prossimamente).
 
+## Strani Dadi
+I GdR sono così diffusi e così antichi che i produttori di dadi hanno creato cose fantasiose per poter continuare a vendere.<br>
+Non è quindi insolito, imbattersi in dadi che in origine derivano da Solidi Platonici, con forme strambe come quelli in foto quì sotto.
+
+![Stani_Dadi](assets/Stranger_Things.jpg)
+
+Tutto quello che scrivo in questa guida è riferito a dadi **normali**, ovvero con la forma di un Solido Platonico.
+
 ## Dadi Bilanciati
 Cos'è un dado bilanciato e perché è così importante? <br>
 Un dado bilanciato è un dado che assicura ad ogni faccia la stessa probabilità di uscita. Questa prerogativa implica una elevata **entropia**.<br>

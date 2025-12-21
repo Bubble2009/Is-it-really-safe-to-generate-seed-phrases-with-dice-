@@ -15,8 +15,13 @@ Oltre ai dadi vi servirà un taccuino in cui appuntarvi i risultati e poi un com
 Con i nostri lanci dovremo generare un numero ottale che andrà da 0000 fino a 3777 (equivalente ottale di 2047).<br>
 Prendiamo per esempio un lancio **2546**.<br>
 Questo numero è composto da 4 caratteri: abbiamo il 2 che è il **msb** (most significative byte o byte più significativo), poi il 5, il 4 e finiamo con il 6 che è l'**lsb** (less significative byte o byte meno significativo).<br>
+
+![488](assets/4888.jpg)
+
 Il primo carattere verrà generato con il dado da 4, mentre gli altri tre, con i dadi da 8. Per massimizzare l'entropia è molto utile definire a priori quale dado da 8 fornirà il valore lsb e quali dadi gli altri due valori.<br>
-I colori differenti servono a identificare univocamente i 3 dadi da 8 e posizionare i valori ottenuti nella apposita posizione della stringa che fornirà il valore.
+I colori differenti servono a identificare univocamente i 3 dadi da 8 e posizionare i valori ottenuti nella apposita posizione della stringa che fornirà il valore.<br>
+Nel mio caso, il dado verde sarà l'**lsb**, poi metterò alla sua sinistra il dado giallo e per finire il dado bianco.<br>
+Rispettando questo codice colore, evitiamo che una decisione umana possa ridurre l'entropia.
 
 ## Esecuzione dei lanci aumentando l'entropia
 Quelle che seguono, sono personali considerazioni su come aumentare l'entropia generata dal lancio dei dadi.<br>
@@ -32,6 +37,44 @@ Se si ripetesse esattamente lo stesso lancio, clonando alla perfezione tutti i m
 Decidete come effettuare i lanci ed eseguite l'operazione fino ad avere:
 * 11 lanci validi[^1] per creare una SeedPhrase da 12 parole
 * 23 lanci validi[^1] per creare una SeedPhrase da 24 parole
+E' però necessario eseguire una semplicissima operazione matematica annotandosi i risultati.
+Potete decidere se farlo subito, oppure se farlo dopo per tutti i risultati.<br>
+In pratica, bisogna sottrarre uno ad ogni faccia pertanto se un lancio fosse com questo:
+
+![4335_2](assets/4335_2.jpg)
+
+Il valore 4335 dovrà diventare 3224.
+
+## L'ultima parola
+Siamo ora arrivati a dover individuare la parola del checksum.
+Arrivati a questo punto con 11 o 23 parole, possiamo utilizzare vari tools per generare l'ultima parola ma, in questo caso avremo un intervento umano che abbasserà l'entropia visto che:
+* SeedPhrase con 12 parole (di cui 11 generate casualmente)
+    * abbiamo 128 possibili parole che possono fungere da checksum
+* SeedPhrase con 24 parole (di cui 23 generate casualmente)
+    * abbiamo 8 possibili parole che possono fungere da checksum
+
+potete verificare tutto questo con uno dei numerosi tools presenti online, tra cui [questo](https://sutterseba.de/bip39-checksum-calculator/).
+Mi raccomando, **non provate questi tools con le parole appena generate con i dadi**.
+
+Per generare l'ultima utilizzando la medesima entropia utilizzata fino ad ora, possiamo fare queste ulteriori operazioni. Le operazioni sono differenti perchè, avendo 11 parole, dobbiamo generare 7 degli 11 bit per identificare una sola tra quelle 128 parole, mentre partendo da 23 parole, dobbiamo generare solo 3 degli 11 bit per identificare quella singola parola tra 8.
+
+### Generazione di 7 bit (SeedPhrase 12 parole)
+Usando sempre i dadi usati in precedenza, dobbiamo generare un numero che vada da 111 a 288 che una volta trascritto sarà un valore compreso tra 000 e 177.<br>
+Non abbiamo un dado a due facce. Potremmo utilizzare una moneta, ma, volendo continuare con i dadi, dobbiamo decidere come gestire il dado da 4 facce.
+* possiamo decidere di assegnare 1 ai numeri pari
+* possiamo decidere di assegnare 1 al risultato di 1 e 2
+* possiamo decider un qualsiasi metodo, a patto che venga deciso a priori e non variato
+
+Una volta deciso questo metodo, lanciamo 1 d4 e 2 d8.<br>
+Lanciando solo due d8, dobbiamo decidere quale dei due sarà l'**lsb** per non dover aggiungere una decisione umana che potrebbe diminuire l'entropia.<br>
+Ricordiamoci che, anche in questo caso, dovremo trascrivere il valore finale sottraendo 1 ad ogni numero ottenuto.
+
+### Generazione di 3 bit (SeedPhrase 24 parole)
+Per generare i 3 bit necessario ad una SeedPhrase da 24 parole, ci basta lanciare un unico d8.<br>
+Anche in questo caso, andremo poi a sottrarre 1 quando trascriveremo il "bella" i risultati.
+
+
+
 
 
 
