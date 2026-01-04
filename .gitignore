@@ -1,9 +1,10 @@
 .DS_Store
-link_da_valutare.txt
 assets/Il_Leo.xcf
-censura.txt
-Lanci_Dadi.xlsx
-~$Lanci_Dadi.xlsx
-table.rtf
-table.txt
-TableMaker.xlsm
+DOC
+DOC/link_da_valutare.txt
+DOC/censura.txt
+DOC/Lanci_Dadi.xlsx
+DOC/~$Lanci_Dadi.xlsx
+DOC/table.rtf
+DOC/table.txt
+DOC/TableMaker.xlsm
