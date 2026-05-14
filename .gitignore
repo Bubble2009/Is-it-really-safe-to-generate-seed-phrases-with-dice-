@@ -1,5 +1,6 @@
 .DS_Store
 assets/Il_Leo.xcf
+assets/stb_X.jpeg
 DOC
 DOC/link_da_valutare.txt
 DOC/censura.txt
@@ -10,3 +11,10 @@ DOC/~$Lanci_Dadi.xlsm
 DOC/table.rtf
 DOC/table.txt
 DOC/TableMaker.xlsm
+DOC/*
+
+Conversion_Table.md
+d4d8_SeedPhrase.md
+deleted_censured_stuff.md
+OctalChecksumGeneratorPyton.md
+SeedChecksumLinux.md
