@@ -2,6 +2,9 @@
 
 ## Result
 
+Se volete effettuare calcoli sui miei risultati, potete [scaricare la tabella con i lanci in formato ods](./assets/Lanci_Dadi.ods).
+If you want to make calculations on my results, you can [download the table with the launches in ods](./assets/Lanci_Dadi.ods) format.
+
 | # | d16 red | d16 white | d8 white | d8 green | d8 yellow | d8 red |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 |5 |11 |6 |7 |1 |6 |

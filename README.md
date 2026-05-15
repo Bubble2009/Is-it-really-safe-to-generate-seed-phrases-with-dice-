@@ -169,8 +169,7 @@ In seguito alle mie preoccupanti scoperte sul d16, ho iniziato a parlarne in ret
 La reazione del network è stata di scherno, ridicolizzazione del mio lavoro. Oltre a questi ed altri spiacevoli avvenimenti, sono stato informato che esiste anche un altro tipo di dado da 16 facce, cosa che da una prima, una seconda ed anche una terza ricerca non era emersa.
 
 Questa chimera a 16 facce, ho avuto estrema difficoltà reperirlo, ma alla fine, acquistato un set di dadi per il gioco Warhammer. <br>
-Nello specifico il [:link: set di dadi di Blood Bowl](https://www.warhammer.com/it-IT/shop/Blood-Bowl-Dice-Set-2019).
-
+Nello specifico il [:link:set di dadi di Blood Bowl](https://www.warhammer.com/it-IT/shop/Blood-Bowl-Dice-Set-2019).
 
 |                                           |                                           |                                           |
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
