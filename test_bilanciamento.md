@@ -2,7 +2,7 @@
 
 Di seguito vi illustro alcuni test che si possono eseguire in casa per verificare il bilanciamento di un dado.
 
-![Dissolving Dice](assets/dissolving.jpg)
+![Dice Banner](assets/Dice_banner.jpg)
 
 Inizio riportando nuovamente i controlli visivi che si possono effettuare:
 
@@ -17,12 +17,14 @@ Inizio riportando nuovamente i controlli visivi che si possono effettuare:
    * Ci sono eventuali ammaccature ad angoli o bordi?
 
 Seguono ora test un pochino più "*scientifici*". I test descritti sono i seguenti:
+
 * [Test di galleggiamento](#Test-di-galleggiamento)
 * [Test di rotolamento](#test-di-rotolamento)
 * [Test della polvere](#test-della-polvere)
 * [Misurazione Meccanica](#misurazione-meccanica)
 
 In ultimo, vedremo come analizzare i dati raccolti
+
 * [Analisi dati](#analisi-dati)
 
 ## Test di galleggiamento
@@ -50,41 +52,51 @@ Sia lasciando cadere il dado che facendolo rotolare nell'acqua, ci possiamo aspe
 Guardando i risultati ottenuti, potete vedere se una faccia del dado è emersa più volte di altre.
 
 ## Test di rotolamento
+
 Questo è il più semplice test che potete eseguire.
+
 * Materiali necessari per eseguire il test:
-   * Un tavolo piano.
+  * Un tavolo piano.
 * Esecuzione del test:
-   * Lanciate ripetutamente il dado cercando di imprimere sempre lo stesso movimento al lancio;
-   * Ripetete il test quante più volte potete (non meno di 100) ed annotate i risultati
+  * Lanciate ripetutamente il dado cercando di imprimere sempre lo stesso movimento al lancio;
+  * Ripetete il test quante più volte potete (non meno di 100) ed annotate i risultati
 
 *I risultati a colpo d'occhio:*<br>
 In un dado bilanciato, nessuna faccia dovrebbe comparire più di altre. Se il numero di volte che è comparsa ogni faccia, non è dissimile, allora il vostro dado è apparentemente bilanciato.
 
 ## Test della polvere
+
 Questo può risultare il test più divertente da eseguire.
+
 * Materiali necessari per eseguire il test:
-   * Un tavolo piano;
-   * Polvere fine come talco o amido di mais.
+  * Un tavolo piano;
+  * Polvere fine come talco o amido di mais.
 * Esecuzione del test:
-   * Bisogna cospargere uniformemente con un sottile velo di polvere la superficie piana;
-   * Fate rotolare un numero considerevole di volte il dado attraverso la polvere;
+  * Bisogna cospargere uniformemente con un sottile velo di polvere la superficie piana;
+  * Fate rotolare un numero considerevole di volte il dado attraverso la polvere;
 
 *I risultati a colpo d'occhio:*<br>
 Osservando l'accumulo di povere sul dado, si pò determinare se alcune facce o bordi siano squilibrate rispetto ad altre.
 
 ## Misurazione meccanica
+
 Questa è una misurazione un po' più complessa da eseguirsi se non si hanno competenze meccaniche.
+
 * Materiali necessari per eseguire il test:
-   * Micrometro oppure Calibro.
+  * Micrometro oppure Calibro.
 * Esecuzione del test:
-   * Misurare ogni faccia del dado in maniera accurata riportando le misure su un taccuino.
+  * Misurare ogni faccia del dado in maniera accurata riportando le misure su un taccuino.
 
 *I risultati a colpo d'occhio:*<br>
 Tutte le misure rilevate su ogni singola faccia dovrebbero essere coerenti tra di loro.
 Se i dadi sono usati, minime differenze sono da ritenersi normali.<br>
 Anche una scarsa qualità costruttiva potrebbe causare queste differenze.
-***
-![Dice Banner](assets/Dice_banner.jpg)
-***
-## Analisi dei Dati
-*... prossimamente ...*
+
+---
+### Link
+* Vai alla [:link Analisi dei Dati](./DataAnalysis.md)
+* Torna alla [:link: pagina principale](./README.md) della guida
+
+---
+
+![Dissolving Dice](assets/dissolving.jpg)
