@@ -17,7 +17,8 @@ Ora vedremo come ho affrontato questo test e l'analisi che ho compiuto.
   * [Il numero di lanci è sufficiente?](#il-numero-di-lanci-è-sufficiente)
 * [Conclusioni](#conclusioni)
   * [link](#link)
-* [Appendice](#appendice---frequenze-osservate-per-tutti-i-dadi)
+* [Appendice I](#appendice-i---stranezze-riscontrate)
+* [Appendice II](#appendice-ii---frequenze-osservate-per-tutti-i-dadi)
 * [Ringraziamenti](#Ringraziamenti)
 
 ## Prefazione
@@ -88,14 +89,14 @@ La [tabella dei risultati](./result.md) riporta i dadi divisi in colonna per ogn
 Ogni colonna riporta la sequenza dei 1008 risultati osservati nei lanci.
 
 
-| **Dado**     | **Numero<br>facce** | **Numero<br>lanci** | **Valore<br>atteso** |
-| :------------- | :-------------------: | :-------------------: | :--------------------: |
-| d16<br>Red   |         16         |        1008        |          63          |
+|   **Dado**   | **Numero<br>facce** | **Numero<br>lanci** | **Valore<br>atteso** |
+| :------------: | :-------------------: | :-------------------: | :--------------------: |
+|  d16<br>Red  |         16         |        1008        |          63          |
 | d16<br>White |         16         |        1008        |          63          |
-| d8<br>White  |          8          |        1008        |         126         |
-| d8<br>Green  |          8          |        1008        |         126         |
+| d8<br>White |          8          |        1008        |         126         |
+| d8<br>Green |          8          |        1008        |         126         |
 | d8<br>Yellow |          8          |        1008        |         126         |
-| d8<br>Red    |          8          |        1008        |         126         |
+|  d8<br>Red  |          8          |        1008        |         126         |
 
 ### Test statistico utilizzato
 
@@ -186,6 +187,8 @@ Un modo equivalente di leggere il test è confrontare il valore **χ²** calcola
 |      d16      |    15    |          24.996          |          30.578          | Rifiuto H0 se χ²<br>supera questo valore | Regola più severa   |
 |      d8      |    7    |          14.067          |          18.475          | Rifiuto H0 se χ²<br>supera questo valore | Regola più severa   |
 
+I pratica, con un livello di significatività α = 0,05, equivalente a confidenza 95%, mentre con un livello di significatività α = 0,01, equivalente a confidenza 99%.
+
 ### Il numero di lanci è sufficiente?
 
 Per applicare il test chi-quadrato serve che le frequenze attese siano sufficientemente grandi.<br>Una regola minima comune è avere almeno 5 osservazioni attese per categoria.<br>In questo caso siamo molto oltre: 63 per ogni faccia nei d16 e 126 per ogni faccia nei d8.
@@ -202,34 +205,74 @@ Quindi i 1008 lanci per dado sono sufficienti per uno screening statistico serio
 
 ## Conclusioni
 
-Questo test è iniziato per confermare che il dado da 16 facce denominato d16 White, non potesse generare risultati accettabili.<br>
-Quando durante il test, ho iniziato a parlarne in rete, mi è stato presentato il dado da 16 facce rosso (denominato d16 Red), così ho deciso di introdurre anche questo dado nel test.<br>
-Procedendo con i lanci, ho osservato risultati non troppo omogenei nemmeno con il d16 Red, così ho voluto confrontarlo con un dado che avesse le seguenti caratteristiche:
+Questo test è iniziato per confermare che il dado da 16 facce cinese (denominato d16 White), non potesse generare risultati accettabili.<br>
+Quando durante il test, ho iniziato a parlarne in rete, mi è stato presentato il dado da 16 facce di Warhammer (denominato d16 Red), così ho deciso di introdurre anche questo dado nel test.<br>
+Procedendo con i lanci, ho osservato risultati non troppo omogenei nemmeno con il d16 Red, così ho voluto aggiungere un altro tipo di dadi al test.<br>
+Ho pensato ad un dado che avesse le seguenti caratteristiche:
 
 * fosse un solido platonico;
-* potesse sostituire il d16 per la generazione della seed.
+* potesse sostituire facilmente il d16 per la generazione della seed.
 
 Avendo a disposizione ben 4 dadi da 8 facce, ho deciso di inserirli tutti nel test.
 
-Tirando le somme, rimanendo nell'ambito del valore critico 99%, solo il dado d16 Withe non soddisfa l'ipotesi di test.
+Tirando le somme:
 
-Se, però, volgiamo cercare un metodo che ci garantisca una adeguata, se non elevata entropia, ritengo che sia ottimale rimanere nell'ambito del valore critico al 95%.<br>
-In questo ambito, tutti i dadi testati del [:link:set di Warhammer Blood Bowl](https://www.warhammer.com/it-IT/shop/Blood-Bowl-Dice-Set-2019), non soddisfano l'ipotesi di test.
+* con valore critico 99%:
+  * con il **d16 Withe** rifiuto l'ipotesi H0
+* con valore critico 95%
+  * rifiuto H0 con: **d16 White**, con **d16 Red**, ma anche con **d8 Red**
 
-Non posso sconsigliare l'uso di un dado da 16 facce, ma vi lascio con questa domanda: *"sicuri di voler affidare la chiave di una cosa così importante ad un oggetto che restituisce risultati di questo tipo?"*
+Rimanendo nell'ambito del valore critico 95%, I risultati mettono in evidenza due punti:
 
-**IO NO**, ma voi siete liberi di trarre le vostre conclusioni e di procedere come meglio credete.
+* rifiuto H0 con **tutti i d16**
+* rifiusto H0 con **tutti i dadi del set di Warhammer** che sono stati oggetto del test.
 
-Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione della SeedPhrase, ripeto il mio consiglio: *mettete almeno un disclaimer sul tipo di dado da 16 da utilizzare*
+**il rifiuto di H0** indica che i risultati sono distanti dal test di ipotesi;<br>
+questo si traduce in una distribuzione **non omogenea** dei risultati (alcune facce hanno più probabilità di altre di comparire).<br>
+Questa mancanza di omogeneità, **io la interpreto come SCARSA ENTROPIA** e questo mi porta a scartare l'idea di utilizzare d16 ed anche dadi provenienti dal set di Warhammer Blood Bowl.
+
+Questa è l'idea che mi sono fatto io, ma lascio a voi decidere a che tipo di dado volete utilizzare per creare la *chiave di accesso al vostro oro digitale?*<br>
+
+> *Ai posteri l'ardua sentenza.*
+> cit.
+
+Ai divulgatori che ancora vorranno consigliare l'utilizzo di un d16, continuo a ripetere: *mettete almeno un disclaimer sul tipo di dado da 16 da utilizzare*, onde evitare che utenti poco attenti acquistino un d16 fallace come quello da me [acquistato su Amazon](https://amzn.to/48HkGFp).
 
 ### Link
 
 * Torna alla [:link: pagina principale](./README.md) della guida
 * consulta i risultati dei [:link: lanci effettuati](./result.md)
 
-## Appendice - Frequenze osservate per tutti i dadi
+## Appendice I - Stranezze riscontrate
+
+Aggiungo quì alcune stranezze riscontrate durante il test.
+Ho sempre saputo che la somma di due facce opposte del dado, dovessero restituire il valore massimo di quel dado addizionato di 1.<br>
+Dei d8 da me utilizzati, però, soltanto due rispettano questa metrica, metre altri due no.<br>
+Non ritengo che la metrica possa influenzare il risultato, ma, stranamente, i due dadi le cui facce rispettavano questa metrica hanno prodotto risultati puù omogenei.<br>
+Di seguito riporto una tabella che riporta la faccia del dato ed il suo opposto nei vari dadi esaminati:
+
+
+| Faccia | d8 Whtie<br> d8 Yellow | d8 Red | d8 Green |
+| :------: | :----------------------: | :------: | :--------: |
+|   1   |           8           |   6   |    2    |
+|   2   |           7           |   7   |    1    |
+|   3   |           6           |   8   |    4    |
+|   4   |           5           |   5   |    3    |
+|   5   |           4           |   4   |    6    |
+|   6   |           3           |   1   |    5    |
+|   7   |           2           |   2   |    8    |
+|   8   |           1           |   3   |    7    |
+
+I due dadi che rispettano la metrica, sono anche i più vecchi (credo oltre 30 anni);<br>
+All'inizio del test, mi sarei aspettato che fossero questi dadi a restituire di valori meno omogenei data l'usura, invece, contrariamente a quanto mi sarei aspettato, il dado che ha mostrato i risultati più coerenti con l'ipotesi è stato il d8 Yellow che tra tutti è il più usato.
+
+Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi fossero costruiti con una qualità superiore a quelli moderni che ho utilizzato per il test e che sia solo questa qualità superiore che abbia permesso risultati più omogenei e non la metrica delle facce opposte.
+
+## Appendice II - Frequenze osservate per tutti i dadi
 
 ### d16 Red
+
+![img_d16R](./assets/test_d16Red_tn.jpg)
 
 
 | **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
@@ -253,6 +296,8 @@ Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione de
 
 ### d16 White
 
+![img_d16W](./assets/test_d16White_tn.jpg)
+
 
 | **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
@@ -275,6 +320,8 @@ Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione de
 
 ### d8 White
 
+![img_d8W](./assets/test_d8White_tn.jpg)
+
 
 | **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
@@ -288,6 +335,8 @@ Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione de
 |     8     |        124        |      126      |   \-2   |         0.032         |
 
 ### d8 Green
+
+![img_d8G](./assets/test_d8Green_tn.jpg)
 
 
 | **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
@@ -303,6 +352,8 @@ Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione de
 
 ### d8 Yellow
 
+![img_d8Y](./assets/test_d8Yellow_tn.jpg)
+
 
 | **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
@@ -316,6 +367,8 @@ Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione de
 |     8     |        116        |      126      |  \-10  |         0.794         |
 
 ### d8 Red
+
+![img_d8R](./assets/test_d8Red_tn.jpg)
 
 
 | **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
@@ -331,6 +384,7 @@ Per chi, invece, continua a propinare l'utilizzo di un d16 per la generazione de
 
 ## Ringraziamenti
 
-Sono sempre d'obbligo i ringraziamenti a *il Leo* per tutto il sostegno che mi ha dato, ma per i calcoli statistici devo ringraziare un frequentatore del più grande *Satoshi Spitz d'Italia*, ovviamente quello di Torino. Grazie *Mario*, senza il tuo aiuto, questa pagina non avrebbe avuto la coerenza mi hai aiutato a donargli.
+Sono sempre d'obbligo i ringraziamenti a *il Leo* per tutto il sostegno che mi ha dato, ma per i calcoli statistici devo ringraziare un frequentatore del più grande *Satoshi Spitz d'Italia*, ovviamente quello di Torino. Grazie *Mario*, senza il tuo aiuto, questa pagina non avrebbe avuto la coerenza mi hai aiutato a donargli.<br>
+Un sentito ringraziamento anche a tutti coloro che dietro le quinte mi aiutano a sistemare la grammatica.
 
 Torna a i [link](#link).

@@ -86,7 +86,7 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 Le proprietà specifiche di un **Solido Platonico** applicate ad un dado, garantiscono una omogeneità ai risultati presentando una **elevata entropia**.
 
-## l MIO dado a 16 facce
+## Il MIO dado a 16 facce
 
 Questa brevissima introduzione sui Solidi Platonici, ci serve per comprendere che il **D16 da me acquistato**, non è compreso tra essi.<br>
 Oltretutto, a differenza del d10, le sue facce non sono nemmeno omogenee.
@@ -158,7 +158,7 @@ Per questo motivo, la **Gravity Dice**, dichiara come perfettamente bilanciati *
 
 ## Che dadi usare per generare una SeedPhrase?
 
-Arriviamo ora ad affrontare quello che veramente ci interessa!<br> **Che dadi utilizzare per generare un SeedPhrase**?
+Arriviamo ora ad affrontare quello che veramente ci interessa!<br> **Che dadi utilizzare per generare una SeedPhrase**?
 
 In seguito alle mie preoccupanti scoperte sul d16, ho iniziato a parlarne in rete.<br>
 La reazione del network è stata di scherno e messa in ridicolo del mio lavoro.<br> A parte questi ed altri spiacevoli avvenimenti, sono stato informato che esiste anche un altro tipo di dado da 16 facce, cosa che da una prima, una seconda ed anche una terza ricerca non era emersa.
@@ -166,7 +166,7 @@ La reazione del network è stata di scherno e messa in ridicolo del mio lavoro.<
 Ho avuto parecchie difficolta prima di entrare in possesso di questa chimera a 16 facce, ma alla fine, è entrato in mio possesso dopo aver acquistato un set di dadi per il gioco Warhammer. <br>
 Nello specifico il [:link:set di dadi di Blood Bowl](https://www.warhammer.com/it-IT/shop/Blood-Bowl-Dice-Set-2019).
 
-| ![Bllod Bowl 01](./assets/BBDiceSet01.jpg) | ![Bllod Bowl 03](./assets/BBDiceSet03.jpg) | ![Bllod Bowl 02](./assets/BBDiceSet02.jpg) |
+| ![Blood Bowl 01](./assets/BBDiceSet01.jpg) | ![Blood Bowl 03](./assets/BBDiceSet03.jpg) | ![Blood Bowl 02](./assets/BBDiceSet02.jpg) |
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
 
 Dopo essere venuto a conoscenza di questa tipologia di dadi, ho provato a scrivere ad alcuni autori di guide che prevedono al generazione della Seed Phrase con il lancio di dadi a 16 facce, ma ho incontrato un muro di invadente ostilità.<br>
@@ -199,7 +199,7 @@ Dai primi lanci effettuati per curiosità, ho notato che gli spigoli arrotondati
 Per giungere ad un dunque di questa mia indagine, ho deciso di effettuare una serie di lanci con alcuni dadi, annotando i risultati.<br>
 Lanci, calcoli e descrizione del metodo sono riportati in [questa pagina](./DataAnalysis.md).<br>
 Come descritto, mi sono concentrato solo sui due tipi di dadi, il d16 e il d8.<br>
-Perchè i d8?<br>
+Perché i d8?<br>
 Cercavo una alternativa al d16, ma che fosse un dado platonico. Il d8 poteva essere una proposta che ci permetteva di effettuare molti meno lanci del d6 ed essendo platonico, avere migliori chance di coerenza nei risultati rispetto al d16.
 
 In seguito alla [Analisi dei dati](./DataAnalysis.md) che ho effettuato, **non mi sento di consigliare l'uso sconsigliare l'uso di un dado da 16 facce**.<br>
@@ -212,7 +212,7 @@ I due dadi del set di Warhammer, oltretutto hanno dato risultati penosi. Non mi 
   * sconsigliati sia per la difficile reperibilità, sia per gli scarsi risultati ottenuti;
 * **d8** dado da 8 facce;
 
-  * a parte uno decisamente sfigato, i risultati sono tra il buono ed il promettente;
+  * a parte quello proveniente dal set di Blood Bowl, i risultati sono tra il buono ed il promettente.<br>La cosa assurda che ho riscontrato è che i dadi più vecchi, riportano risultati più coerenti;
   * sono facilmente reperibili in tutti i negozi che trattano GdR o giochi evoluti;
 * **d6** dado da 6 facce;
 
@@ -224,15 +224,19 @@ I due dadi del set di Warhammer, oltretutto hanno dato risultati penosi. Non mi 
 
   * io appoggio anche questo tipo di generazione della seed, ma consiglio di cercare 11 monete uguali, il più nuove possibile per evitare che una eventuale erosione data dall'utilizzo possa alterare i risultati.
 
-  ## ***Conclusione***
+## ***Conclusione***
 
-  E' stato un lavoro veramente arduo e stressante, devo ringraziare *mia figlia* per avermi aiutato con qualche lancio di dado, ma soprattutto *il Leo* che mi ha spronato continuamente a portare a termine questa opera.
+E' stato un lavoro veramente arduo e stressante, devo ringraziare *mia figlia* per avermi aiutato con qualche lancio di dado, ma soprattutto *il Leo* che mi ha spronato continuamente a portare a termine questa opera.
 
-  L'idea iniziale era di proporre una guida alternativa all'uso del d16 basata sull'utilizzo di d8 (con l'ausilio facoltativo di un d4), ma per il momento ho deciso di lasciare perdere.<br>
-  Fatemi sapere se è di vostro interesse e ne riprenderò la sua stesura.
+Questo test è nato unicamente per dimostrate quanto fosse inaffidabile il d16 [acquistato su Amazon](https://amzn.to/48HkGFp), puoi ho introdotto i test dei d16  [del set di Warhammer](https://www.warhammer.com/it-IT/shop/Blood-Bowl-Dice-Set-2019) per comparare i risultati con il primo.<br>
+Nel corso del test, quando ho iniziato a notare che i risultati non erano equamente distribuiti, ho aggiunto altri 4 d8 al test, con l'unico intento di verificare se almeno questi dadi restituivano risultati equamente distribuiti.
 
-  Spero di avervi fornito un numero sufficiente di dati da permettervi di effettuare una scelta consapevole.<br>
-  Questo era il mio intento, fatemi sapere le vostre opinioni.<br> Io sono sempre aperto ad un confronto costruttivo.
+Quando ho visto che i risultati dei d8 erano più uniformi rispetto ai d16, avevo pensato di proporre una guida alternativa basata sull'utilizzo di d8 (con l'ausilio facoltativo di un d4), ma poi ho abbandonato l'idea.<br>
+Nel caso vi potesse interessare una simile guida, fatemelo sapere e riprenderò lo sviluppo.
+
+Arrivati a questo punto, spero di averti fornito un numero sufficiente di dati da permettervi di decidere se affidare ai d16 la creazione di un codice randomico che custodirà la chiave di un tesoro così prezioso.
+
+Spero, quindi, di aver raggiunto il mio intento.
 
   ### **Risorse**
 
