@@ -54,7 +54,7 @@ Visto l'importanza di questo argomento ne faccio un breve accenno quì di seguit
 
 ## I Solidi Platonici
 
-**Platone**, insieme al suo maestro **Socrate** e al suo allievo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.<br>
+**Platone**, insieme al suo maestro **Socrate** e al suo allievo **Aristotele**, ha posto le basi del *pensiero filosofico occidentale*.<br>
 La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire i requisiti di un **Solido Platonico** e perché queste sue *caratteristiche di regolarità* sono molto importanti in questo contesto.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [:link: poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
@@ -86,7 +86,7 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 Le proprietà specifiche di un **Solido Platonico** applicate ad un dado, garantiscono una omogeneità ai risultati presentando una **elevata entropia**.
 
-## il MIO dado a 16 facce
+## l MIO dado a 16 facce
 
 Questa brevissima introduzione sui Solidi Platonici, ci serve per comprendere che il **D16 da me acquistato**, non è compreso tra essi.<br>
 Oltretutto, a differenza del d10, le sue facce non sono nemmeno omogenee.
