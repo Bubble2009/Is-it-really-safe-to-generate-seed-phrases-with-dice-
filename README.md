@@ -184,7 +184,7 @@ Di recente ho pubblicato questa citazione sul mio [:link: canale Telegram di mem
 Ma vale solo per le persone con una mentalità aperta, persone aperte al dialogo, persone con cui ci si può interfacciare per costruire qualcosa.<br>
 In questo frangente, invece, ho trovato solo gente che rifiutava un dialogo costruttivo. Chissà poi perché.
 
-Ho definito questo dado una chimera perché non è stato facile reperirlo.<br>Appena appreso della sua esistenza, sul sito Warhammer questo set era esaurito ed altrove erano disponibili solo con consti molto elevati.
+Ho definito questo dado una chimera perché non è stato facile reperirlo.<br>Appena appreso della sua esistenza, sul sito Warhammer questo set era esaurito ed altrove erano disponibili solo con costi molto elevati.
 
 Alla fine è tornato disponibile e una volta recuperati i dadi, ho effettuato un primo esame visivo sul d16.<br>
 Di seguito potete vedere le foto in cui risulta evidente quanto descriverò in seguito:
