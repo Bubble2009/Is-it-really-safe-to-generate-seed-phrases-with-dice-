@@ -54,7 +54,7 @@ Visto l'importanza di questo argomento ne faccio un breve accenno quì di seguit
 
 ## I Solidi Platonici
 
-**Platone**, insieme al suo maestro **Socrate** e al suo allevo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.<br>
+**Platone**, insieme al suo maestro **Socrate** e al suo allievo **Aristotele** ha posto le basi del *pensiero filosofico occidentale*.<br>
 La rilevanza tra un filosofo e la geometria, a noi non interessa, quello che invece è fondamentale è capire i requisiti di un **Solido Platonico** e perché queste sue *caratteristiche di regolarità* sono molto importanti in questo contesto.
 
 Il **solido platonico**, sinonimo di **solido regolare** e di **poliedro convesso regolare**, indica un [:link: poliedro convesso](https://it.wikipedia.org/wiki/Poliedro_convesso) con le seguenti caratteristiche:
