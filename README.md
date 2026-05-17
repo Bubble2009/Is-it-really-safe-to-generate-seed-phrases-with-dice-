@@ -98,15 +98,19 @@ Per conoscenza, vi lascio il collegamento alla pagina di
 
 Che l'entropia fosse scarsa, era solo una mia ipotesi, per valutarla questa scarsissima entropia, ho effettuato una serie di lanci ed una conseguente analisi dei risultati che verranno illustrati di seguito.
 
+
 ## Strani Dadi
 
-I GdR sono così diffusi e così antichi che i produttori di dadi hanno creato cose fantasiose per poter continuare a vendere.
+I GdR sono così diffusi e così antichi che i produttori di dadi hanno creato cose fantasiose per poter continuare a incentivare le vendite.
 
-Non è quindi insolito, imbattersi in dadi con un quantitativo di facce che rientrano nella sfera dei Solidi Platonici, ma con forme strambe. Di seguito un esempio di dadi con forme esoteriche in mio possesso:
+Non è quindi insolito imbattersi in set di dadi da GdR, che come abbiamo visto prima sono tutti Solidi Platonici tranne il d10, riprodotti con forme esotiche che tutto possono essere, tranne che solidi platonici.
+
+Di seguito un esempio di dadi con forme esotiche in mio possesso:
 
 ![Stani_Dadi](./assets/Stranger_Things.jpg)
 
-Il discorso che segue, non riguarda questi dadi.<br> Le considerazioni fatte sono riferite unicamente a dadi **normali**, ovvero riconducibili ad un Solido Platonico.
+Questo inciso è solo per informare che esistono dei d4, d6, d8, d12, d20 creati con forme strambe che non possono essere considerate Solidi Platonici.<br>
+Quando mi riferisco a questi dadi, io mi riferisco a quelli che rispettano i dettami dei Solidi Platonici.
 
 ## Dadi Bilanciati
 
