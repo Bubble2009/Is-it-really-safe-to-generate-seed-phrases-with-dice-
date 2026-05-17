@@ -80,7 +80,7 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 
 | Dado 10 facce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | D10                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma, sebbene le sue[:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti.<br> Non avendo nessuno dei tre requisiti, il D10 **non può** essere considerato un Solido Platonico.<br> Nonostante questo, viene largamente utilizzato, forse perché le facce omogenee dovrebbero una discreta euristica che per i giocatori di ruolo è sufficiente.<br> Le sue 10 facce hanno una forma che ricorda un aquilone. | ![D10](assets/Dice_D10.jpg)<br> ![D10 Blue](assets/d10-dice-opaque-light-blue__300px.jpg) |
+| Da notare che nei GdR si utilizza anche un dado da 10 facce, ma, sebbene le sue[:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti.<br> Non avendo nessuno dei tre requisiti, il D10 **non può** essere considerato un Solido Platonico.<br> Nonostante questo, viene largamente utilizzato, forse perché le facce omogenee dovrebbero avere una discreta euristica che per i giocatori di ruolo è sufficiente.<br> Le sue 10 facce hanno una forma che ricorda un aquilone. | ![D10](assets/Dice_D10.jpg)<br> ![D10 Blue](assets/d10-dice-opaque-light-blue__300px.jpg) |
 
 #### Qual'è la correlazione tra Solidi platonici e dadi ?
 
@@ -102,7 +102,7 @@ Che l'entropia fosse scarsa, era solo una mia ipotesi, per valutarla questa scar
 
 I GdR sono così diffusi e così antichi che i produttori di dadi hanno creato cose fantasiose per poter continuare a vendere.
 
-Non è quindi insolito, imbattersi in dadi con una quantitativo di facce che rientrano nella sfera dei Solidi Platonici, ma con forme strambe. Di seguito un esempio di dadi con forme esoteriche in mio possesso:
+Non è quindi insolito, imbattersi in dadi con un quantitativo di facce che rientrano nella sfera dei Solidi Platonici, ma con forme strambe. Di seguito un esempio di dadi con forme esoteriche in mio possesso:
 
 ![Stani_Dadi](./assets/Stranger_Things.jpg)
 
@@ -119,7 +119,7 @@ Questi dadi sono prodotti con materiali qualitativamente superiori e sono certif
 Questi oggetti dall'aspetto banale, però, hanno dei costi decisamente importanti.<br> Di seguito vi riporto alcuni esempi di dadi più o meno bilanciati:
 
 * Partiamo con un dado di qualità. <br> Non è dichiarato come bilanciato, ma è sicuramente ben fatto e molto curato:
-  * Dal Negro, Dadi Puntati color avorio: [:link: amazon.it](https://amzn.to/4pE0uLL)
+  * Dal Negro, Dadi Puntati color avorio: [:link: amazon.it](https://amzn.to/3PvA4Pv)
 * Vediamo ora un altro dado di qualità, ma anch'esso senza qualifica di *calibrato*:
   * Dadi da Casinò Blu: [:link: amazon.it](https://amzn.to/3MyJvMu)
 * Un altro set di dadi da casinò:
@@ -152,7 +152,7 @@ Esistono test pratici per verificare se un dado è bilanciato, ma vengono descri
 ##### NOTA BENE :bangbang:
 
 Leggendo la descrizione fatta sul loro sito da Gravity Dice, per creare un **dado bilanciato**, è necessario realizzare ogni pip di una profondità specifica per garantire un perfetto bilanciamento del dado; questa lavorazione di precisione grava sul costo di questo prodotto. <br>
-Per questo motivo, la **Gravity Dice**, dichiara come perfettamente bilanciati **solo i d6 !!**. Tutti gli altri sono bellissimi dadi in alluminio aeronautico, ma senza nessuna prerogativa di bilanciamento.<br> Se una azienda specializzata a produrre dadi bilanciati, produce dolo d6 con queste caratteristiche, credo sia molto difficile, se non impossibile, trovare dadi con certificazione di bilanciamento con un numero di facce differenti da 6.
+Per questo motivo, la **Gravity Dice**, dichiara come perfettamente bilanciati **solo i d6 !!**. Tutti gli altri sono bellissimi dadi in alluminio aeronautico, ma senza nessuna prerogativa di bilanciamento.<br> Se una azienda specializzata a produrre dadi bilanciati, produce solo d6 con queste caratteristiche, credo sia molto difficile, se non impossibile, trovare dadi con certificazione di bilanciamento con un numero di facce differenti da 6.
 
 ![Dice Banner](assets/Dice_banner.jpg)
 
@@ -170,7 +170,7 @@ Nello specifico il [:link:set di dadi di Blood Bowl](https://www.warhammer.com/i
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
 
 Dopo essere venuto a conoscenza di questa tipologia di dadi, ho provato a scrivere ad alcuni autori di guide che prevedono al generazione della Seed Phrase con il lancio di dadi a 16 facce, ma ho incontrato un muro di invadente ostilità.<br>
-Scrissi anche un *dev* italiano a cui avevo suggerito, rispondendo ad un tuo post su X (fu Twitter), di inserire un disclaimer sulla tipologia di dado da utilizzare per seguire la sua guida, mi ha prima perculato su Telegram e poi bloccato su X.<br>
+Scrissi anche un *dev* italiano a cui avevo suggerito, rispondendo ad un suo post su X (fu Twitter), di inserire un disclaimer sulla tipologia di dado da utilizzare per seguire la sua guida, mi ha prima perculato su Telegram e poi bloccato su X.<br>
 
 | ![X](./assets/stb_X_small.jpeg) | ![TG](./assets/stb_TG.jpg) |
 | :-------------------------------: | :--------------------------: |
@@ -202,7 +202,7 @@ Come descritto, mi sono concentrato solo sui due tipi di dadi, il d16 e il d8.<b
 Perché i d8?<br>
 Cercavo una alternativa al d16, ma che fosse un dado platonico. Il d8 poteva essere una proposta che ci permetteva di effettuare molti meno lanci del d6 ed essendo platonico, avere migliori chance di coerenza nei risultati rispetto al d16.
 
-In seguito alla [Analisi dei dati](./DataAnalysis.md) che ho effettuato, **non mi sento di consigliare l'uso sconsigliare l'uso di un dado da 16 facce**.<br>
+In seguito alla [Analisi dei dati](./DataAnalysis.md) che ho effettuato, **non mi sento di consigliare l'uso di un dado da 16 facce**.<br>
 I due dadi del set di Warhammer, oltretutto hanno dato risultati penosi. Non mi capacito di come sia potuto succedere.
 
 **Cosa conviene usare allora?**<br> *Proviamo ad analizzare i dati:*
