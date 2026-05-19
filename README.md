@@ -212,20 +212,16 @@ I due dadi del set di Warhammer, oltretutto hanno dato risultati penosi. Non mi 
 **Cosa conviene usare allora?**<br> *Proviamo ad analizzare i dati:*
 
 * **d16** dado da 16 facce;
-
   * sconsigliati sia per la difficile reperibilità, sia per gli scarsi risultati ottenuti;
 * **d8** dado da 8 facce;
-
   * a parte quello proveniente dal set di Blood Bowl, i risultati sono tra il buono ed il promettente.<br>La cosa assurda che ho riscontrato è che i dadi più vecchi, riportano risultati più coerenti;
   * sono facilmente reperibili in tutti i negozi che trattano GdR o giochi evoluti;
 * **d6** dado da 6 facce;
-
   * sono facilmente reperibili ovunque (anche supermercati, tabaccai, etc etc);
   * trovate tantissime guide convenzionali che vi aiutato a creare una guida usando questi dadi (vedi ad esempio la guida di *Turtlecute*);
   * con un singolo dado e pochi lanci potete generare una Seed Phrase (vedi la guida creata da *il Leo*);
   * ammetto, però, di non averli ancora testati, magari prossimamente aggiungerò alla guida qualche lancio di d6 come completamento;
 * **monete**
-
   * io appoggio anche questo tipo di generazione della seed, ma consiglio di cercare 11 monete uguali, il più nuove possibile per evitare che una eventuale erosione data dall'utilizzo possa alterare i risultati.
 
 ## ***Conclusione***
@@ -236,7 +232,8 @@ Questo test è nato unicamente per dimostrate quanto fosse inaffidabile il d16 [
 Nel corso del test, quando ho iniziato a notare che i risultati non erano equamente distribuiti, ho aggiunto altri 4 d8 al test, con l'unico intento di verificare se almeno questi dadi restituivano risultati equamente distribuiti.
 
 Quando ho visto che i risultati dei d8 erano più uniformi rispetto ai d16, avevo pensato di proporre una guida alternativa basata sull'utilizzo di d8 (con l'ausilio facoltativo di un d4), ma poi ho abbandonato l'idea.<br>
-Nel caso vi potesse interessare una simile guida, fatemelo sapere e riprenderò lo sviluppo.
+Nel caso vi potesse interessare una simile guida, fatemelo sapere e riprenderò lo sviluppo.<br>
+Trovate una conclusione più tecnica al termine della mia [Analisi dei dati](./DataAnalysis.md), vi invito a leggerla perchè parte integrante della disanima.
 
 Arrivati a questo punto, spero di averti fornito un numero sufficiente di dati da permettervi di decidere se affidare ai d16 la creazione di un codice randomico che custodirà la chiave di un tesoro così prezioso.
 
