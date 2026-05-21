@@ -204,7 +204,8 @@ Per giungere ad un dunque di questa mia indagine, ho deciso di effettuare una se
 Lanci, calcoli e descrizione del metodo sono riportati in [questa pagina](./DataAnalysis.md).<br>
 Come descritto, mi sono concentrato solo sui due tipi di dadi, il d16 e il d8.<br>
 Perché i d8?<br>
-Cercavo una alternativa al d16, ma che fosse un dado platonico. Il d8 poteva essere una proposta che ci permetteva di effettuare molti meno lanci del d6 ed essendo platonico, avere migliori chance di coerenza nei risultati rispetto al d16.
+Cercavo una alternativa al d16, ma che fosse un dado platonico. Il d8 poteva essere una proposta che ci permetteva di effettuare molti meno lanci del d6 ed essendo platonico, avere migliori chance di coerenza nei risultati rispetto al d16.<br>
+*Attenzione!* Non volevo utilizzare il d8 per ricreare il d16, ma l'idea era di utilizzare la numerazione ottale anziché quella esadecimale. In questo caso, per scrivere in ottale il numero 2047, ci sarebbero serviti un d4 e tre d8.
 
 In seguito alla [Analisi dei dati](./DataAnalysis.md) che ho effettuato, **non mi sento di consigliare l'uso di un dado da 16 facce**.<br>
 I due dadi del set di Warhammer, oltretutto hanno dato risultati penosi. Non mi capacito di come sia potuto succedere.
