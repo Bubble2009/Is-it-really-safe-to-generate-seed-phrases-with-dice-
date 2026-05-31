@@ -82,7 +82,7 @@ Quello a 6 facce è quello universalmente più diffuso; gli altri, invece, sono 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 | Da notare che nei GdR si utilizza anche un dado da 10 facce, ma, sebbene le sue[:link: facce](https://it.wikipedia.org/wiki/Faccia_(geometria)) siano sovrapponibili, non sono [:link: poligoni regolari](https://it.wikipedia.org/wiki/Poligoni_regolari), e, sebbene siano [:link: congruenti](https://it.wikipedia.org/wiki/Congruenza_(geometria)), gli spigoli non hanno tutti la stessa lunghezza e di conseguenza i vertici non sono equivalenti.<br> Non avendo nessuno dei tre requisiti, il D10 **non può** essere considerato un Solido Platonico.<br> Nonostante questo, viene largamente utilizzato, forse perché le facce omogenee dovrebbero avere una discreta euristica che per i giocatori di ruolo è sufficiente.<br> Le sue 10 facce hanno una forma che ricorda un aquilone. | ![D10](assets/Dice_D10.jpg)<br> ![D10 Blue](assets/d10-dice-opaque-light-blue__300px.jpg) |
 
-#### Qual'è la correlazione tra Solidi platonici e dadi ?
+#### Qual è la correlazione tra Solidi platonici e dadi ?
 
 Le proprietà specifiche di un **Solido Platonico** applicate ad un dado, garantiscono una omogeneità ai risultati presentando una **elevata entropia**.
 
@@ -136,7 +136,7 @@ Questi oggetti dall'aspetto banale, però, hanno dei costi decisamente important
 
 Cosa si può fare per non affrontare simili costi?
 
-Di seguito alcuni suggerimenti per capire se un dado (anche uno normale e non da 6 facce) è, quantomeno in apparenza bilanciato:
+Di seguito alcuni suggerimenti per capire se un dado (qualsiasi dado, non necessariamente da 6 facce) è, quantomeno in apparenza bilanciato:
 
 1. Forma:
    * La forma del dado è simmetrica? (è un solido platonico?)
@@ -167,7 +167,7 @@ Arriviamo ora ad affrontare quello che veramente ci interessa!<br> **Che dadi ut
 In seguito alle mie preoccupanti scoperte sul d16, ho iniziato a parlarne in rete.<br>
 La reazione del network è stata di scherno e messa in ridicolo del mio lavoro.<br> A parte questi ed altri spiacevoli avvenimenti, sono stato informato che esiste anche un altro tipo di dado da 16 facce, cosa che da una prima, una seconda ed anche una terza ricerca non era emersa.
 
-Ho avuto parecchie difficolta prima di entrare in possesso di questa chimera a 16 facce, ma alla fine, è entrato in mio possesso dopo aver acquistato un set di dadi per il gioco Warhammer. <br>
+Non è stato affatto facile entrare entrare in possesso di questa chimera a 16 facce, ma alla fine, questo tipo di d16 è entrato nel mio pool di dadi con l'acquisto di un set di dadi per il gioco Warhammer. <br>
 Nello specifico il [:link:set di dadi di Blood Bowl](https://www.warhammer.com/it-IT/shop/Blood-Bowl-Dice-Set-2019).
 
 | ![Blood Bowl 01](./assets/BBDiceSet01.jpg) | ![Blood Bowl 03](./assets/BBDiceSet03.jpg) | ![Blood Bowl 02](./assets/BBDiceSet02.jpg) |

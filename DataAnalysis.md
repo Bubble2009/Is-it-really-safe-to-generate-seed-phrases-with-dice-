@@ -26,7 +26,7 @@ Ora vedremo come ho affrontato questo test e l'analisi che ho compiuto.
 Per questa analisi ho effettuato 1008 lanci con il seguente set di dadi:
 
 
-|              d16<br>Red              |                d16White                |                d8White                |              d8<br>Green              |              d8<br>Yellow              |              d8<br>Red              |
+|              d16<br>Red              |                d16<br>White                |                d8<br>White                |              d8<br>Green              |              d8<br>Yellow              |              d8<br>Red              |
 | :-------------------------------------: | :---------------------------------------: | :-------------------------------------: | :-------------------------------------: | :--------------------------------------: | :-----------------------------------: |
 | ![img_d16R](./assets/test_d16Red.jpg) | ![img_d16W](./assets/test_d16White.jpg) | ![img_d8W](./assets/test_d8White.jpg) | ![img_d8G](./assets/test_d8Green.jpg) | ![img_d8Y](./assets/test_d8Yellow.jpg) | ![img_d8R](./assets/test_d8Red.jpg) |
 |       d16 del set<br>Blood Bowl       |            d16<br>from China            |               d8<br>old               |               d8<br>new               |             d8<br>very old             |      d8 del set<br>Blood Bowl      |
@@ -60,6 +60,7 @@ I lanci sono stati eseguiti variando molto il pattern, di seguito elenco alcune 
 * lancio di più dadi, inseriti in un bicchiere su un tavolo
   * applicato al 15% dei lanci
 * lancio di più dadi, inseriti in un bicchiere all'interno di uno spazio confinato (scatola)
+  * applicato al 20% dei lanci
 
 Ed ecco la foto dei dadi nella scatola, con tanto di bicchiere utilizzato per i lanci.
 
@@ -79,7 +80,7 @@ Per maggiori informazioni sul test applicato, vi lascio la [:link:pagina wikiped
 Sono stati analizzati 6 dadi, ciascuno lanciato 1008 volte: due dadi da 16 facce e quattro dadi da 8 facce.<br>L'obiettivo era verificare se le frequenze osservate sono compatibili con l'ipotesi che ogni faccia abbia la stessa probabilità di uscire.
 
 Il test utilizzato è il test chi-quadrato di bontà dell'adattamento.<br>
-Confrontando con una soglia standard alfa = 0,05, tre dadi risultano statisticamente sospetti. Il caso più forte è d16, con *p-value* estremamente basso.
+Confrontando con una soglia standard alfa = 0,05, tre dadi risultano statisticamente sospetti. Il caso più forte è *d16 white*, con *p-value* estremamente basso.
 
 Attenzione: rifiutare test di indagine, non significa dimostrare che un dado è "truccato". Significa solo che i risultati osservati sono poco compatibili con un dado perfettamente uniforme.
 
@@ -187,7 +188,7 @@ Un modo equivalente di leggere il test è confrontare il valore **χ²** calcola
 |      d16      |    15    |          24.996          |          30.578          | Rifiuto H0 se χ²<br>supera questo valore | Regola più severa   |
 |      d8      |    7    |          14.067          |          18.475          | Rifiuto H0 se χ²<br>supera questo valore | Regola più severa   |
 
-I pratica, con un livello di significatività α = 0,05, equivalente a confidenza 95%, mentre con un livello di significatività α = 0,01, equivalente a confidenza 99%.
+In pratica, con un livello di significatività α = 0,05, equivalente a confidenza 95%, mentre con un livello di significatività α = 0,01, equivalente a confidenza 99%.
 
 ### Il numero di lanci è sufficiente?
 
@@ -225,7 +226,7 @@ Tirando le somme:
 Rimanendo nell'ambito del valore critico 95%, I risultati mettono in evidenza due punti:
 
 * rifiuto H0 con **tutti i d16**
-* rifiusto H0 con **tutti i dadi del set di Warhammer** che sono stati oggetto del test.
+* rifiuto H0 con **tutti i dadi del set di Warhammer** che sono stati oggetto del test.
 
 **il rifiuto di H0** indica che i risultati sono distanti dal test di ipotesi;<br>
 questo si traduce in una distribuzione **non omogenea** dei risultati (alcune facce hanno più probabilità di altre di comparire).<br>
@@ -248,7 +249,7 @@ Ai divulgatori che ancora vorranno consigliare l'utilizzo di un d16, continuo a 
 Aggiungo quì alcune stranezze riscontrate durante il test.
 Ho sempre saputo che la somma di due facce opposte del dado, dovessero restituire il valore massimo di quel dado addizionato di 1.<br>
 Dei d8 da me utilizzati, però, soltanto due rispettano questa metrica, metre altri due no.<br>
-Non ritengo che la metrica possa influenzare il risultato, ma, stranamente, i due dadi le cui facce rispettavano questa metrica hanno prodotto risultati puù omogenei.<br>
+Non ritengo che la metrica possa influenzare il risultato, ma, stranamente, i due dadi le cui facce rispettavano questa metrica hanno prodotto risultati più omogenei.<br>
 Di seguito riporto una tabella che riporta la faccia del dato ed il suo opposto nei vari dadi esaminati:
 
 
@@ -275,7 +276,7 @@ Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi 
 ![img_d16R](./assets/test_d16Red_tn.jpg)
 
 
-| **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
+| **Faccia** | Osservato<br>**O** | Atteso<br>**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
 |     1     |         74         |       63       |   +11   |         1.921         |
 |     2     |         69         |       63       |   +6   |         0.571         |
@@ -299,7 +300,7 @@ Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi 
 ![img_d16W](./assets/test_d16White_tn.jpg)
 
 
-| **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
+| **Faccia** | Osservato<br>**O** | Atteso<br>**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
 |     1     |         56         |       63       |   \-7   |         0.778         |
 |     2     |         59         |       63       |   \-4   |         0.254         |
@@ -323,7 +324,7 @@ Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi 
 ![img_d8W](./assets/test_d8White_tn.jpg)
 
 
-| **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
+| **Faccia** | Osservato<br>**O** | Atteso<br>**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
 |     1     |        125        |      126      |   \-1   |         0.008         |
 |     2     |        154        |      126      |   +28   |         6.222         |
@@ -339,7 +340,7 @@ Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi 
 ![img_d8G](./assets/test_d8Green_tn.jpg)
 
 
-| **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
+| **Faccia** | Osservato<br>**O** | Atteso<br>**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
 |     1     |        118        |      126      |   \-8   |         0.508         |
 |     2     |        112        |      126      |  \-14  |         1.556         |
@@ -355,7 +356,7 @@ Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi 
 ![img_d8Y](./assets/test_d8Yellow_tn.jpg)
 
 
-| **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
+| **Faccia** | Osservato<br>**O** | Atteso<br>**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
 |     1     |        125        |      126      |   \-1   |         0.008         |
 |     2     |        116        |      126      |  \-10  |         0.794         |
@@ -371,7 +372,7 @@ Una mia deduzione (non supportata da alcun dato specifico) è che i dadi vecchi 
 ![img_d8R](./assets/test_d8Red_tn.jpg)
 
 
-| **Faccia** | Osservato<br>**O** | Atteso<br**E** | **O-E** | Contributo<br>**χ²** |
+| **Faccia** | Osservato<br>**O** | Atteso<br>**E** | **O-E** | Contributo<br>**χ²** |
 | :----------: | :------------------: | :--------------: | :-------: | :----------------------: |
 |     1     |        101        |      126      |  \-25  |         4.960         |
 |     2     |        153        |      126      |   +27   |         5.786         |

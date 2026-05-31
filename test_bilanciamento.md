@@ -23,10 +23,6 @@ Seguono ora test un pochino più "*scientifici*". I test descritti sono i seguen
 * [Test della polvere](#test-della-polvere)
 * [Misurazione Meccanica](#misurazione-meccanica)
 
-In ultimo, vedremo come analizzare i dati raccolti
-
-* [Analisi dati](#analisi-dati)
-
 ## Test di galleggiamento
 
 Il più popolare dei test è quello di galleggiamento.
@@ -76,7 +72,7 @@ Questo può risultare il test più divertente da eseguire.
   * Fate rotolare un numero considerevole di volte il dado attraverso la polvere;
 
 *I risultati a colpo d'occhio:*<br>
-Osservando l'accumulo di povere sul dado, si pò determinare se alcune facce o bordi siano squilibrate rispetto ad altre.
+Osservando l'accumulo di povere sul dado, si può determinare se alcune facce o bordi siano squilibrate rispetto ad altre.
 
 ## Misurazione meccanica
 
