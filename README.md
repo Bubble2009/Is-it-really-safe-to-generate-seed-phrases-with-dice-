@@ -10,7 +10,7 @@ Una volta generata la SeedPhrase, sarà poi necessario conservarla in maniera si
 Uno dei principali metodi che vengono indicati per la generazione con elevata entropia prevede l'utilizzo dei dadi.<br>
 Quì non verrà illustrato un nuovo metodo per generare una SeedPhrase, ma semplicemente descriverò alcune personali considerazioni.
 
-### Monete o Dadi 6 facce
+## Monete o Dadi 6 facce
 
 Come sapete, per descrivere in maniera binaria il numero corrispondente alle 2048 parole introdotte con il [:link: BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039), servono 11 bit, per questo motivo vengono spesso utilizzati, per la generazione della SeedPhrase, 11 monete oppure 11 dadi; generalmente dadi a 6 facce (d6).
 
